@@ -1,0 +1,552 @@
+[
+  {
+    "sku":"EZFLO_2.8L_LE10",
+    "name":"2.8L EZFLO Unit (2005-HB) with 10L Lawn Envy Concentrate Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"1253",
+    "name":"2L Hose on bundle - Lawn Envy & MaxGreen",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"A8X",
+    "name":"Activ8EXTRA  Boosted liquid fertiliser and inoculant for lawns & leafy plants",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"lawn"
+  },
+  {
+    "sku":"A8M",
+    "name":"Activ8mate Liquid Fertiliser Inoculant - For use on Plants, Lawns, Veggies, Trees, Natives",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"lawn"
+  },
+  {
+    "sku":"886",
+    "name":"CHAMPION Lawn & Fairway - Slow release granular fertiliser",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"lawn"
+  },
+  {
+    "sku":"892",
+    "name":"CHAMPION Lawn & Greens grade granular mini-prill fertiliser with 3.5% iron",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"iron deficiency,yellowing leaves",
+    "goals":"feed plants,green up lawn",
+    "situations":"lawn"
+  },
+  {
+    "sku":"DOL",
+    "name":"Dolomite Granules 1-2mm mini prill Granular slow release soil conditioner",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"984",
+    "name":"EZFLO 3.2L system 1010HB (tap connector) w\/ COMPLETE Fertiliser Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn,start fresh",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"985",
+    "name":"EZFLO 3.2L system 1010HB (tap connector) w\/ STARTER Fertiliser Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn,start fresh",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"575",
+    "name":"Flowers, Fruits & Roots Granular Fertiliser - 8-2-20 NPK + T\/E",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"721",
+    "name":"Flowers, Fruits & Roots liquid fertiliser - High in Potassium & buffered with Humic",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,feed plants,green up lawn,improve soil",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"414",
+    "name":"Fulvic Acid Liquid - a powerful bio stimulant",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"29814",
+    "name":"Fulvic Acid Powder >92% - Premium, Concentrated & Soluble",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"1318",
+    "name":"Garden Soil Enhancer Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"1176",
+    "name":"Gardener's Choice Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"1075",
+    "name":"Gypsum Granules 1-2mm mini prill Granular slow release clay buster",
+    "suitable_soils":"clay,sodic",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"compacted soil,poor drainage",
+    "goals":"improve soil",
+    "situations":""
+  },
+  {
+    "sku":"513",
+    "name":"Humate \/ Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"1295",
+    "name":"Indoor Plant bundle (2 x 500ml liquids)",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":"indoor"
+  },
+  {
+    "sku":"1060",
+    "name":"Indoor Plant Foods bundle - liquids ONLY",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":"indoor"
+  },
+  {
+    "sku":"1061",
+    "name":"Indoor Plants Improver bundle - liquids AND granular",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":"indoor"
+  },
+  {
+    "sku":"846",
+    "name":"Iron Sulphate Heptahydrate - Soluble Slow release powder",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"iron deficiency,yellowing leaves",
+    "goals":"green up lawn",
+    "situations":""
+  },
+  {
+    "sku":"1243",
+    "name":"Just been laid - turf starter bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"LEN",
+    "name":"Lawn Envy - Quick Easy All-round Lawn Food",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"1231",
+    "name":"Lawn Lovers Pro Pack bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"1235",
+    "name":"Lawn Lovers Starter Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"LIMEGr",
+    "name":"Lime Granules 1-2mm Slow Release",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"LIR",
+    "name":"Liquid Iron Fertiliser - 7% Iron 3% Sulphur",
+    "suitable_soils":"all",
+    "climate_zones":"temperate,subtropical",
+    "best_seasons":"autumn,spring",
+    "used_for":"yellowing leaves,iron deficiency",
+    "goals":"green up lawn,fix yellowing leaves",
+    "situations":"lawn,garden beds"
+  },
+  {
+    "sku":"780",
+    "name":"Liquid Spray Marking Dye - Marker Dye Blue",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"MG",
+    "name":"MaxGreen Hi-N & Iron liquid fertiliser - Growth plus Green",
+    "suitable_soils":"all",
+    "climate_zones":"temperate,subtropical",
+    "best_seasons":"spring,summer",
+    "used_for":"yellowing,poor colour,lack of nitrogen",
+    "goals":"green up lawn,boost plant growth",
+    "situations":"lawn"
+  },
+  {
+    "sku":"636",
+    "name":"Micronised Gypsum Liquid Premium Clay Buster",
+    "suitable_soils":"clay,sodic,compacted",
+    "climate_zones":"tropical,subtropical,temperate",
+    "best_seasons":"autumn,winter,spring",
+    "used_for":"compacted soil,clay breaking,poor drainage",
+    "goals":"improve soil,start fresh",
+    "situations":"lawn,garden beds,veggie patch"
+  },
+  {
+    "sku":"664",
+    "name":"Nature's Soil Wetter granules - Natural mineral infused with plant-derived non-petrochemical surfactant",
+    "suitable_soils":"clay,sandy,hydrophobic",
+    "climate_zones":"all",
+    "best_seasons":"all",
+    "used_for":"dry soil,poor infiltration,drought stress",
+    "goals":"improve soil,drought resistance",
+    "situations":"lawn,garden beds,veggie patch"
+  },
+  {
+    "sku":"NSWL",
+    "name":"Nature's Soil Wetter liquid - Super concentrated plant-derived non-petrochemical surfactant \/ wetter & soil conditioner",
+    "suitable_soils":"clay,hydrophobic,sandy",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"drought stress,dry soil,poor infiltration",
+    "goals":"drought resistance,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"758",
+    "name":"Neem Fertiliser slow release Granules 1-2mm",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"880",
+    "name":"Neem Plant Spray Oil Concentrate",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"PHPF",
+    "name":"Passive Hydro Plant Food for Indoor plants - 30ml",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":"indoor"
+  },
+  {
+    "sku":"BPMNZ_PW20kg",
+    "name":"Permawet 20kg",
+    "suitable_soils":"clay,hydrophobic,sandy",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"drought stress,dry soil,poor infiltration",
+    "goals":"drought resistance,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"526",
+    "name":"Plant Doctor Humic acid 80% (Humate) Powder - 99% Soluble",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"547",
+    "name":"Plant Doctor Iron Chelate",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"iron deficiency,yellowing leaves",
+    "goals":"green up lawn",
+    "situations":""
+  },
+  {
+    "sku":"N97",
+    "name":"Plant Doctor Seaweed Secrets - Concentrated Liquid Seaweed Fertiliser 20Litres",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"microbial health,stress recovery",
+    "goals":"boost plant growth,feed plants,green up lawn",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"1048",
+    "name":"Potting Mix & Soil Improver (granular) LIMITED EDITION",
+    "suitable_soils":"clay,hydrophobic,sandy",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"drought stress,dry soil,poor infiltration",
+    "goals":"drought resistance,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"PP",
+    "name":"Power Pellets - Organic slow-release Fertiliser for all plants, trees & lawns",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"lawn"
+  },
+  {
+    "sku":"1247",
+    "name":"Pro Soil Enhancer bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"29800",
+    "name":"Quantum H  Premium humic acid solution",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"29782",
+    "name":"Rescue Remedy - Soluble Seaweed (Kelp) Powder \/ Flakes - Ascophyllum nodosum",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"microbial health,stress recovery",
+    "goals":"boost plant growth",
+    "situations":""
+  },
+  {
+    "sku":"1156",
+    "name":"Roots, Shoots & Leaves Granular Fertiliser 16-2-10 NPK + T\/E",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn",
+    "situations":"garden beds,veggie patch"
+  },
+  {
+    "sku":"SWS",
+    "name":"Seaweed Secrets | Concentrated Liquid Seaweed (Kelp) | Super-Boosted with Humic & Fulvic Acid",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"carbon boost,microbial activity,microbial health,stress recovery",
+    "goals":"boost plant growth,improve soil",
+    "situations":""
+  },
+  {
+    "sku":"1214",
+    "name":"Sharp Shooter Organic WeedKiller spray",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"1045",
+    "name":"Sharp Shooter Rose Black Spot & Insect Spray",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"1058",
+    "name":"Sharp Shooter Triforine Rose Spray Concentrate 250ml concentrate",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"898",
+    "name":"Small Indoor plants & Garden fertiliser value bundle - 10% discount",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"feed plants,green up lawn,start fresh",
+    "situations":"garden beds,indoor,veggie patch"
+  },
+  {
+    "sku":"STM",
+    "name":"Stimulizer - Super concentrate Bio-stimulant & natural chelating agent",
+    "suitable_soils":"all",
+    "climate_zones":"all",
+    "best_seasons":"all",
+    "used_for":"root health,stress recovery,microbial boost",
+    "goals":"boost plant growth,build root health",
+    "situations":"lawn,garden beds,veggie patch,indoor"
+  },
+  {
+    "sku":"1239",
+    "name":"Value Combo Bundle",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"start fresh",
+    "situations":""
+  },
+  {
+    "sku":"562",
+    "name":"VolcaMin (clinoptilolite Zeolite) - Agriculture Grade < 1.0mm Powder",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"557",
+    "name":"VolcaMin (clinoptilolite Zeolite) - Agriculture Grade 1-2mm",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  },
+  {
+    "sku":"567",
+    "name":"VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade - 2-4mm",
+    "suitable_soils":"",
+    "climate_zones":"subtropical,temperate,tropical",
+    "best_seasons":"autumn,spring,summer,winter",
+    "used_for":"",
+    "goals":"",
+    "situations":""
+  }
+]

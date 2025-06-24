@@ -1,0 +1,6802 @@
+{
+  "Item": [
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "1",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "PREMIUM Fossil Shell Flour® - Food Grade DE Diatomaceous Earth - Organic",
+      "InventoryID": "211",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "20.00",
+      "Name": "PREMIUM Fossil Shell Flour® - Food Grade DE Diatomaceous Earth - Organic",
+      "SKU": "211"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.80",
+      "Model": "PREMIUM Fossil Shell Flour®: Food Grade DE Diatomaceous Earth - Organic -  22.68kg",
+      "InventoryID": "217",
+      "Brand": "Perma-Guard ",
+      "DefaultPrice": "199.80",
+      "Name": "PREMIUM Fossil Shell Flour®: Food Grade DE Diatomaceous Earth - Organic -  22.68kg",
+      "SKU": "211_217"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "15",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "5",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "10",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Rescue Remedy - Soluble Seaweed (Kelp) Powder / Flakes - Ascophyllum nodosum",
+      "InventoryID": "224",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Rescue Remedy - Soluble Seaweed (Kelp) Powder / Flakes - Ascophyllum nodosum",
+      "SKU": "29782"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "15",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "ANIMAL B9 feed supplement ",
+      "InventoryID": "226",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.50",
+      "Name": "ANIMAL B9 feed supplement ",
+      "SKU": "29785"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "2000",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "2000",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "2000",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "101",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Seaweed Secrets | Concentrated Liquid Seaweed (Kelp) | Super-Boosted with Humic & Fulvic Acid",
+      "InventoryID": "228",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "14.95",
+      "Name": "Seaweed Secrets | Concentrated Liquid Seaweed (Kelp) | Super-Boosted with Humic & Fulvic Acid",
+      "SKU": "SWS"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "200",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "65",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "99",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Stimulizer - Super concentrate Bio-stimulant & natural chelating agent",
+      "InventoryID": "230",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "9.95",
+      "Name": "Stimulizer - Super concentrate Bio-stimulant & natural chelating agent",
+      "SKU": "STM"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "20",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "10",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Quantum H  Premium humic acid solution",
+      "InventoryID": "232",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Quantum H  Premium humic acid solution",
+      "SKU": "29800"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Fulvic Acid Powder >92% - Premium, Concentrated & Soluble",
+      "InventoryID": "238",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Fulvic Acid Powder >92% - Premium, Concentrated & Soluble",
+      "SKU": "29814"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "141",
+              "Priority": "10",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Nature's Soil Wetter liquid - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner",
+      "InventoryID": "241",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Nature's Soil Wetter liquid - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner",
+      "SKU": "NSWL"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "10",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "1",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "5",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "24.95",
+      "Model": "Rescue Remedy - soluble Seaweed powder/flakes - 500g",
+      "InventoryID": "275",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Rescue Remedy - soluble Seaweed powder/flakes - 500g",
+      "SKU": "29782_1"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "9.95",
+      "Model": "Stimulizer - 30ml dropper bottle",
+      "InventoryID": "279",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "9.95",
+      "Name": "Stimulizer - 30ml dropper bottle",
+      "SKU": "STM03M"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "253",
+            "Priority": "10",
+            "CategoryName": "Agriculture and Farm fertilisers "
+          }
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Nature's Soil Wetter - 1L",
+      "InventoryID": "287",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Nature's Soil Wetter - 1L",
+      "SKU": "NSW01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "19.00",
+      "Model": "ANIMAL B9 Food Supplement - 750g",
+      "InventoryID": "322",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.50",
+      "Name": "ANIMAL B9 Food Supplement - 750g",
+      "SKU": "29785_2"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "14.95",
+      "Model": "Seaweed Secrets - 1L",
+      "InventoryID": "324",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "14.95",
+      "Name": "Seaweed Secrets - 1L",
+      "SKU": "SWS01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "32.00",
+      "Model": "Stimulizer - 1L",
+      "InventoryID": "326",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "32.00",
+      "Name": "Stimulizer - 1L",
+      "SKU": "STM01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Quantum H ® -  1L",
+      "InventoryID": "328",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Quantum H ® -  1L",
+      "SKU": "29800_1"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "29.95",
+      "Model": "Fulvic Acid Powder -1kg",
+      "InventoryID": "334",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Fulvic Acid Powder -1kg",
+      "SKU": "29814_2"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "49.95",
+      "Model": "Nature's Soil Wetter - 4L",
+      "InventoryID": "336",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Nature's Soil Wetter - 4L",
+      "SKU": "NSW04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "10",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "5",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "125.00",
+      "Model": "Rescue Remedy - soluble Seaweed powder/flakes - 4.5kg",
+      "InventoryID": "355",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "125.00",
+      "Name": "Rescue Remedy - soluble Seaweed powder/flakes - 4.5kg",
+      "SKU": "29782_3"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Seaweed Secrets - 5L",
+      "InventoryID": "359",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Seaweed Secrets - 5L",
+      "SKU": "SWS05L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "108.90",
+      "Model": "Stimulizer - 4L",
+      "InventoryID": "361",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "108.90",
+      "Name": "Stimulizer - 4L",
+      "SKU": "STM04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Quantum H ®  - 4L",
+      "InventoryID": "363",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Quantum H ®  - 4L",
+      "SKU": "29800_2"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "400.00",
+      "Model": "Rescue Remedy - soluble Seaweed powder/flakes - 20kg",
+      "InventoryID": "378",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "400.00",
+      "Name": "Rescue Remedy - soluble Seaweed powder/flakes - 20kg",
+      "SKU": "29782_4"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "39.00",
+      "Model": "ANIMAL B9 Feed Supplement - 2kg",
+      "InventoryID": "380",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "35.00",
+      "Name": "ANIMAL B9 Feed Supplement - 2kg",
+      "SKU": "29785_4"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "169.00",
+      "Model": "Seaweed Secrets - 20L",
+      "InventoryID": "382",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "190.86",
+      "Name": "Seaweed Secrets - 20L",
+      "SKU": "SWS20L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "368.50",
+      "Model": "Stimulizer - 20L",
+      "InventoryID": "384",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "Stimulizer - 20L",
+      "SKU": "STM20L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "169.00",
+      "Model": "Quantum H ® - 20L",
+      "InventoryID": "386",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "169.00",
+      "Name": "Quantum H ® - 20L",
+      "SKU": "29800_3"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "119.00",
+      "Model": "Fulvic Acid Powder - 4.5kg",
+      "InventoryID": "389",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "119.00",
+      "Name": "Fulvic Acid Powder - 4.5kg",
+      "SKU": "29814_4"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "89.00",
+      "Model": "ANIMAL B9 Feed Supplement - 4.5kg",
+      "InventoryID": "394",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "55.00",
+      "Name": "ANIMAL B9 Feed Supplement - 4.5kg",
+      "SKU": "29785_5"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "1521.00",
+      "Model": "Quantum H ® - 200 Litre",
+      "InventoryID": "396",
+      "Brand": "",
+      "DefaultPrice": "1521.00",
+      "Name": "Quantum H ® - 200 Litre",
+      "SKU": "29800_4"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.00",
+      "Model": "ANIMAL B9 Feed Supplement - 15kg",
+      "InventoryID": "400",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "179.95",
+      "Name": "ANIMAL B9 Feed Supplement - 15kg",
+      "SKU": "29785_6"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "4950.00",
+      "Model": "Quantum H ® - 1000L",
+      "InventoryID": "402",
+      "Brand": "",
+      "DefaultPrice": "4500.00",
+      "Name": "Quantum H ® - 1000L",
+      "SKU": "29800_5"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "450.00",
+      "Model": "Fulvic Acid Powder - 25kg",
+      "InventoryID": "404",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "400.00",
+      "Name": "Fulvic Acid Powder - 25kg",
+      "SKU": "29814_6"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "3495.00",
+      "Model": "Stimulizer - Super Concentrate Bio stimulant & super natural Chelating agent, minerals and nutrients added [size: 200 Litre]",
+      "InventoryID": "409",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "3317.00",
+      "Name": "Stimulizer - Super Concentrate Bio stimulant & super natural Chelating agent, minerals and nutrients added [size: 200 Litre]",
+      "SKU": "STM_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "9875.20",
+      "Model": "Stimulizer - Super Concentrate Fulvic acid based product with natural stimulants, minerals and nutrients added - size: 1000 Litre",
+      "InventoryID": "410",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "9875.20",
+      "Name": "Stimulizer - Super Concentrate Fulvic acid based product with natural stimulants, minerals and nutrients added - size: 1000 Litre",
+      "SKU": "STM_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "1599.00",
+      "Model": "Seaweed Secrets - Concentrated Liquid Seaweed (Kelp) super-boosted with humic & fulvic- 200L",
+      "InventoryID": "412",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "1521.00",
+      "Name": "Seaweed Secrets - Concentrated Liquid Seaweed (Kelp) super-boosted with humic & fulvic- 200L",
+      "SKU": "SWS_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Seaweed Secrets - Concentrated Liquid Seaweed (Kelp) super-boosted with humic & fulvic - 1000L",
+      "InventoryID": "413",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "4563.00",
+      "Name": "Seaweed Secrets - Concentrated Liquid Seaweed (Kelp) super-boosted with humic & fulvic - 1000L",
+      "SKU": "SWS_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "950",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "40",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "950",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Fulvic Acid Liquid - a powerful bio stimulant",
+      "InventoryID": "414",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Fulvic Acid Liquid - a powerful bio stimulant",
+      "SKU": "414"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Fulvic Acid - 1L",
+      "InventoryID": "415",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Fulvic Acid - 1L",
+      "SKU": "414_415"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Fulvic Acid - 4L",
+      "InventoryID": "416",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Fulvic Acid - 4L",
+      "SKU": "414_416"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "169.00",
+      "Model": "Fulvic Acid - 20L",
+      "InventoryID": "417",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "169.00",
+      "Name": "Fulvic Acid - 20L",
+      "SKU": "414_417"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "1521.00",
+      "Model": "Plant Doctor Fulvic Acid - Liquid powerful bio stimulant - 200L",
+      "InventoryID": "418",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "1521.00",
+      "Name": "Plant Doctor Fulvic Acid - Liquid powerful bio stimulant - 200L",
+      "SKU": "414_418"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "4563.00",
+      "Model": "Plant Doctor Fulvic Acid - Liquid powerful bio stimulant - 1000L",
+      "InventoryID": "419",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "4563.00",
+      "Name": "Plant Doctor Fulvic Acid - Liquid powerful bio stimulant - 1000L",
+      "SKU": "414_419"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "0",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "194",
+              "Priority": "0",
+              "CategoryName": "Jurassic Nutritional Therapy "
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "BEST VALUE Micronised Australian Zeolite - powder",
+      "InventoryID": "428",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "19.95",
+      "Name": "BEST VALUE Micronised Australian Zeolite - powder",
+      "SKU": "428"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Micronised Australian Zeolite powder - 500g",
+      "InventoryID": "429",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "19.95",
+      "Name": "Micronised Australian Zeolite powder - 500g",
+      "SKU": "428_429"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "39.00",
+      "Model": "Micronised Australian Zeolite powder - 1.5kg",
+      "InventoryID": "431",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "39.00",
+      "Name": "Micronised Australian Zeolite powder - 1.5kg",
+      "SKU": "428_431"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "1",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "1",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Power Pellets - Organic slow-release Fertiliser for all plants, trees & lawns",
+      "InventoryID": "432",
+      "Brand": "PlantMaster",
+      "DefaultPrice": "9.95",
+      "Name": "Power Pellets - Organic slow-release Fertiliser for all plants, trees & lawns",
+      "SKU": "PP"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 Feed Supplement",
+      "InventoryID": "443",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.00",
+      "Name": "Equine B9 Feed Supplement",
+      "SKU": "443"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 feed supplement - 750g",
+      "InventoryID": "444",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.00",
+      "Name": "Equine B9 feed supplement - 750g",
+      "SKU": "443_444"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "49.00",
+      "Model": "Equine B9 feed supplement - 2kg",
+      "InventoryID": "445",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "35.00",
+      "Name": "Equine B9 feed supplement - 2kg",
+      "SKU": "443_445"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "89.00",
+      "Model": "Equine B9 feed supplement - 4.5kg",
+      "InventoryID": "446",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "55.00",
+      "Name": "Equine B9 feed supplement - 4.5kg",
+      "SKU": "443_446"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "199.00",
+      "Model": "Equine B9 feed supplement - 15kg",
+      "InventoryID": "447",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "135.00",
+      "Name": "Equine B9 feed supplement - 15kg",
+      "SKU": "443_447"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 PLUS food supplement - 2kg",
+      "InventoryID": "452",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "39.00",
+      "Name": "Equine B9 PLUS food supplement - 2kg",
+      "SKU": "450_452"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 PLUS food supplement - 4.5kg",
+      "InventoryID": "453",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "89.00",
+      "Name": "Equine B9 PLUS food supplement - 4.5kg",
+      "SKU": "450_453"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 PLUS food supplement - 15kg",
+      "InventoryID": "454",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "245.00",
+      "Name": "Equine B9 PLUS food supplement - 15kg",
+      "SKU": "450_454"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Equine B9 PLUS food supplement - 20kg",
+      "InventoryID": "455",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "299.00",
+      "Name": "Equine B9 PLUS food supplement - 20kg",
+      "SKU": "450_455"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Vitanimal - Powdered Humic acid for animals",
+      "InventoryID": "464",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.00",
+      "Name": "Vitanimal - Powdered Humic acid for animals",
+      "SKU": "464"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Vitanimal - Powdered Humic and Fulvic acid for animals - 750g",
+      "InventoryID": "465",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.00",
+      "Name": "Vitanimal - Powdered Humic and Fulvic acid for animals - 750g",
+      "SKU": "464_465"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "89.00",
+      "Model": "Micronised Australian Zeolite powder - 4kg",
+      "InventoryID": "508",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "89.00",
+      "Name": "Micronised Australian Zeolite powder - 4kg",
+      "SKU": "428_432"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "299.00",
+      "Model": "Micronised Australian Zeolite powder - 20kg",
+      "InventoryID": "509",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "299.00",
+      "Name": "Micronised Australian Zeolite powder - 20kg",
+      "SKU": "428_433"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic",
+      "InventoryID": "513",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.50",
+      "Name": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic",
+      "SKU": "513"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "25.00",
+      "Model": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic - 4.5kg",
+      "InventoryID": "514",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic - 4.5kg",
+      "SKU": "513_514"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "79.95",
+      "Model": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic - 20kg",
+      "InventoryID": "516",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "79.95",
+      "Name": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic - 20kg",
+      "SKU": "513_516"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Plant Doctor Humic acid 80% (Humate) Powder - 99% Soluble",
+      "InventoryID": "526",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Plant Doctor Humic acid 80% (Humate) Powder - 99% Soluble",
+      "SKU": "526"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "84.95",
+      "Model": "Plant Doctor Humic acid powder - Soluble 4.5kg",
+      "InventoryID": "527",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "74.95",
+      "Name": "Plant Doctor Humic acid powder - Soluble 4.5kg",
+      "SKU": "526_527"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Plant Doctor Humic acid powder - Soluble 1kg",
+      "InventoryID": "528",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Plant Doctor Humic acid powder - Soluble 1kg",
+      "SKU": "526_528"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.95",
+      "Model": "Plant Doctor Humic acid (Humate) Powder - Soluble [size: 25kg]",
+      "InventoryID": "529",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "189.95",
+      "Name": "Plant Doctor Humic acid (Humate) Powder - Soluble [size: 25kg]",
+      "SKU": "526_529"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Plant Doctor Humic acid (Humate) Powder - Soluble [size: 40 x 25kg]",
+      "InventoryID": "530",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "4999.00",
+      "Name": "Plant Doctor Humic acid (Humate) Powder - Soluble [size: 40 x 25kg]",
+      "SKU": "526_530"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "169.00",
+      "Model": "Nature's Soil Wetter - 20L",
+      "InventoryID": "531",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "169.00",
+      "Name": "Nature's Soil Wetter - 20L",
+      "SKU": "NSW20L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "1650.00",
+      "Model": "Nature's Soil Wetter - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner - 200 Litre",
+      "InventoryID": "532",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "1521.00",
+      "Name": "Nature's Soil Wetter - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner - 200 Litre",
+      "SKU": "NSW_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "4563.00",
+      "Model": "Nature's Soil Wetter - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner - 1000L",
+      "InventoryID": "533",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "4563.00",
+      "Name": "Nature's Soil Wetter - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner - 1000L",
+      "SKU": "NSW_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "0",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            },
+            {
+              "CategoryID": "194",
+              "Priority": "0",
+              "CategoryName": "Jurassic Nutritional Therapy "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "The Original FHC (Fulvic Humic Concentrate)",
+      "InventoryID": "535",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "29.95",
+      "Name": "The Original FHC (Fulvic Humic Concentrate)",
+      "SKU": "535"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Plant Doctor Iron Chelate",
+      "InventoryID": "547",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "30.00",
+      "Name": "Plant Doctor Iron Chelate",
+      "SKU": "547"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.00",
+      "Model": "Rounding",
+      "InventoryID": "548",
+      "Brand": "",
+      "DefaultPrice": "0.00",
+      "Name": "Rounding",
+      "SKU": "ROUNDING"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade 1-2mm",
+      "InventoryID": "557",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade 1-2mm",
+      "SKU": "557"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "VolcaMin (clinoptilolite Zeolite) 1-2mm - 4.5kg",
+      "InventoryID": "558",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "VolcaMin (clinoptilolite Zeolite) 1-2mm - 4.5kg",
+      "SKU": "557_558"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "55.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite)  - 1-2mm - 20kg",
+      "InventoryID": "559",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "65.00",
+      "Name": "VolcaMin (clinoptilolite Zeolite)  - 1-2mm - 20kg",
+      "SKU": "557_559"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade < 1.0mm Powder",
+      "InventoryID": "562",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade < 1.0mm Powder",
+      "SKU": "562"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade < 1.0mm Powder (4.5KG)",
+      "InventoryID": "563",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade < 1.0mm Powder (4.5KG)",
+      "SKU": "562_563"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "60.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade < 1.0mm Powder (20KG)",
+      "InventoryID": "564",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "65.00",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Agriculture Grade < 1.0mm Powder (20KG)",
+      "SKU": "562_564"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade - 2-4mm",
+      "InventoryID": "567",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade - 2-4mm",
+      "SKU": "567"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "VolcaMin (clinoptilolite Zeolite) 2-4mm - 4.5kg",
+      "InventoryID": "568",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "VolcaMin (clinoptilolite Zeolite) 2-4mm - 4.5kg",
+      "SKU": "567_568"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "55.00",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - 2-4mm - 20kg",
+      "InventoryID": "569",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "65.00",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - 2-4mm - 20kg",
+      "SKU": "567_569"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "The Original FHC (Fulvic Humic Concentrate) - 30ml glass dropper bottle",
+      "InventoryID": "572",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "29.95",
+      "Name": "The Original FHC (Fulvic Humic Concentrate) - 30ml glass dropper bottle",
+      "SKU": "535_572"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "203.50",
+      "Model": "FHC (Fulvic Humic Concentrate) - 500ml bottle",
+      "InventoryID": "573",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "199.95",
+      "Name": "FHC (Fulvic Humic Concentrate) - 500ml bottle",
+      "SKU": "535_573"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Flowers, Fruits & Roots Granular Fertiliser - 8-2-20 NPK + T/E",
+      "InventoryID": "575",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.00",
+      "Name": "Flowers, Fruits & Roots Granular Fertiliser - 8-2-20 NPK + T/E",
+      "SKU": "575"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "17.50",
+      "Model": "Flowers, Fruits & Roots Granular Fertiliser - 1kg",
+      "InventoryID": "576",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.00",
+      "Name": "Flowers, Fruits & Roots Granular Fertiliser - 1kg",
+      "SKU": "575_576"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "45.00",
+      "Model": "Flowers, Fruits & Roots Granular Fertiliser - 4.5kg",
+      "InventoryID": "577",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "45.00",
+      "Name": "Flowers, Fruits & Roots Granular Fertiliser - 4.5kg",
+      "SKU": "575_577"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "110.00",
+      "Model": "Flowers, Fruits & Roots Granular Fertiliser - 20kg",
+      "InventoryID": "578",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "110.00",
+      "Name": "Flowers, Fruits & Roots Granular Fertiliser - 20kg",
+      "SKU": "575_578"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Activ8mate Liquid Fertiliser Inoculant - For use on Plants, Lawns, Veggies, Trees, Natives",
+      "InventoryID": "582",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Activ8mate Liquid Fertiliser Inoculant - For use on Plants, Lawns, Veggies, Trees, Natives",
+      "SKU": "A8M"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Activ8mate Liquid fertiliser - 1L",
+      "InventoryID": "583",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Activ8mate Liquid fertiliser - 1L",
+      "SKU": "A8M01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "137",
+            "Priority": "100",
+            "CategoryName": "Agriculture, Horticulture and Hydroponics"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Activ8mate Liquid fertiliser - 4L",
+      "InventoryID": "584",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Activ8mate Liquid fertiliser - 4L",
+      "SKU": "A8M04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "137",
+            "Priority": "100",
+            "CategoryName": "Agriculture, Horticulture and Hydroponics"
+          }
+        }
+      ],
+      "RRP": "169.00",
+      "Model": "Activ8mate Liquid fertiliser - 20L",
+      "InventoryID": "585",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "Activ8mate Liquid fertiliser - 20L",
+      "SKU": "A8M20L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "137",
+            "Priority": "100",
+            "CategoryName": "Agriculture, Horticulture and Hydroponics"
+          }
+        }
+      ],
+      "RRP": "1521.00",
+      "Model": "Activ8mate Liquid fertiliser & inoculant [size: 200 Litre]",
+      "InventoryID": "586",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "1521.00",
+      "Name": "Activ8mate Liquid fertiliser & inoculant [size: 200 Litre]",
+      "SKU": "A8M_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "137",
+            "Priority": "100",
+            "CategoryName": "Agriculture, Horticulture and Hydroponics"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Activ8mate Liquid fertiliser & inoculant [size: 1000 Litre]",
+      "InventoryID": "587",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "3600.00",
+      "Name": "Activ8mate Liquid fertiliser & inoculant [size: 1000 Litre]",
+      "SKU": "A8M_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "2500.00",
+      "Model": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic [size: 1000kg (40 x 25kg)]",
+      "InventoryID": "593",
+      "Brand": "",
+      "DefaultPrice": "1999.00",
+      "Name": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic [size: 1000kg (40 x 25kg)]",
+      "SKU": "513_517"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "0",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "299.00",
+      "Model": "FHC (Fulvic Humic Concentrate) 1L",
+      "InventoryID": "594",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "299.95",
+      "Name": "FHC (Fulvic Humic Concentrate) 1L",
+      "SKU": "535_594"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "12.50",
+      "Model": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic 1kg",
+      "InventoryID": "605",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.50",
+      "Name": "Humate / Humic Acid (45-50%) Granules (2-4mm) - Cert. Organic 1kg",
+      "SKU": "513_513"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Plant Doctor Iron Chelate - 1kg",
+      "InventoryID": "626",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "30.00",
+      "Name": "Plant Doctor Iron Chelate - 1kg",
+      "SKU": "Iche_1"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "0",
+              "CategoryName": "Food"
+            },
+            {
+              "CategoryID": "230",
+              "Priority": "0",
+              "CategoryName": "Capsules"
+            }
+          ]
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Nature's Help Organic Apple Cider Vinegar with Mother - 60 Capsules",
+      "InventoryID": "627",
+      "Brand": "Nature's Help",
+      "DefaultPrice": "27.95",
+      "Name": "Nature's Help Organic Apple Cider Vinegar with Mother - 60 Capsules",
+      "SKU": "627"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "254",
+            "Priority": "5",
+            "CategoryName": "Health & Beauty"
+          }
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Nature's Help Organic Turmeric with Black Pepper and Ginger Capsules 120 caps",
+      "InventoryID": "628",
+      "Brand": "Nature's Help",
+      "DefaultPrice": "28.50",
+      "Name": "Nature's Help Organic Turmeric with Black Pepper and Ginger Capsules 120 caps",
+      "SKU": "628"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "1",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Nature’s Help Molly's Meal Topper 150g",
+      "InventoryID": "630",
+      "Brand": "Nature's Help",
+      "DefaultPrice": "28.50",
+      "Name": "Nature’s Help Molly's Meal Topper 150g",
+      "SKU": "630"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Micronised Gypsum Liquid Premium Clay Buster",
+      "InventoryID": "636",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Micronised Gypsum Liquid Premium Clay Buster",
+      "SKU": "636"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "10",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "24.95",
+      "Model": "Micronised Gypsum Liquid - 1L",
+      "InventoryID": "637",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Micronised Gypsum Liquid - 1L",
+      "SKU": "636_637"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "62.95",
+      "Model": "Micronised Gypsum Liquid - 4L",
+      "InventoryID": "638",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "62.95",
+      "Name": "Micronised Gypsum Liquid - 4L",
+      "SKU": "636_638"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.00",
+      "Model": "Micronised Gypsum Liquid - 15L",
+      "InventoryID": "639",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "199.00",
+      "Name": "Micronised Gypsum Liquid - 15L",
+      "SKU": "636_639"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "0",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "0",
+              "CategoryName": "Animals"
+            },
+            {
+              "CategoryID": "256",
+              "Priority": "0",
+              "CategoryName": "Animals Feed and Supplements - Horses and Cattle"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Seed Oil - 100% Cold Pressed virgin oil",
+      "InventoryID": "660",
+      "Brand": "",
+      "DefaultPrice": "44.95",
+      "Name": "Neem Seed Oil - 100% Cold Pressed virgin oil",
+      "SKU": "660"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Neem Seed Oil 1L",
+      "InventoryID": "661",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "44.95",
+      "Name": "Neem Seed Oil 1L",
+      "SKU": "660_661"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "150.00",
+      "Model": "Neem Seed Oil 4L",
+      "InventoryID": "662",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "135.00",
+      "Name": "Neem Seed Oil 4L",
+      "SKU": "660_662"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "140",
+            "Priority": "100",
+            "CategoryName": "Human & Animal Health"
+          }
+        }
+      ],
+      "RRP": "495.00",
+      "Model": "Neem Seed Oil 20L",
+      "InventoryID": "663",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "445.00",
+      "Name": "Neem Seed Oil 20L",
+      "SKU": "660_663"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Nature's Soil Wetter granules - Natural mineral infused with plant-derived non-petrochemical surfactant",
+      "InventoryID": "664",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "15.50",
+      "Name": "Nature's Soil Wetter granules - Natural mineral infused with plant-derived non-petrochemical surfactant",
+      "SKU": "664"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "16.00",
+      "Model": "Nature's Soil Wetter - GRANULAR - 1kg",
+      "InventoryID": "665",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "15.50",
+      "Name": "Nature's Soil Wetter - GRANULAR - 1kg",
+      "SKU": "664_665"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "39.95",
+      "Model": "Nature's Soil Wetter - GRANULAR - 4.5kg",
+      "InventoryID": "666",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "39.95",
+      "Name": "Nature's Soil Wetter - GRANULAR - 4.5kg",
+      "SKU": "664_666"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "69.95",
+      "Model": "Nature's Soil Wetter - GRANULAR - 20kg",
+      "InventoryID": "667",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "69.95",
+      "Name": "Nature's Soil Wetter - GRANULAR - 20kg",
+      "SKU": "664_667"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "259",
+            "Priority": "1",
+            "CategoryName": "Vegetable Fertilisers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Flowers, Fruits & Roots liquid fertiliser - High in Potassium & buffered with Humic",
+      "InventoryID": "721",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Flowers, Fruits & Roots liquid fertiliser - High in Potassium & buffered with Humic",
+      "SKU": "721"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "259",
+            "Priority": "1",
+            "CategoryName": "Vegetable Fertilisers"
+          }
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Flowers, Fruits & Roots - 1L",
+      "InventoryID": "722",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Flowers, Fruits & Roots - 1L",
+      "SKU": "721_722"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "259",
+            "Priority": "1",
+            "CategoryName": "Vegetable Fertilisers"
+          }
+        }
+      ],
+      "RRP": "69.95",
+      "Model": "Flowers, Fruits & Roots 4L",
+      "InventoryID": "723",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "69.95",
+      "Name": "Flowers, Fruits & Roots 4L",
+      "SKU": "721_723"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "259",
+            "Priority": "1",
+            "CategoryName": "Vegetable Fertilisers"
+          }
+        }
+      ],
+      "RRP": "299.00",
+      "Model": "Flowers, Fruits & Roots - 15L",
+      "InventoryID": "724",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "Flowers, Fruits & Roots - 15L",
+      "SKU": "721_724"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.00",
+      "Model": "Flowers, Fruits & Roots - 200L",
+      "InventoryID": "725",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "3496.00",
+      "Name": "Flowers, Fruits & Roots - 200L",
+      "SKU": "721_725"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "10488.00",
+      "Model": "Flowers, Fruits & Roots 1000L",
+      "InventoryID": "726",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "10488.00",
+      "Name": "Flowers, Fruits & Roots 1000L",
+      "SKU": "721_726"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "0",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Fertiliser slow release Granules 1-2mm",
+      "InventoryID": "758",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Neem Fertiliser slow release Granules 1-2mm",
+      "SKU": "758"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Neem Fertiliser slow release Granules 1-2mm - 1kg",
+      "InventoryID": "759",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Neem Fertiliser slow release Granules 1-2mm - 1kg",
+      "SKU": "758_759"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Neem Fertiliser slow release Granules 1-2mm - 4.5kg",
+      "InventoryID": "760",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Neem Fertiliser slow release Granules 1-2mm - 4.5kg",
+      "SKU": "758_760"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "99.50",
+      "Model": "Neem Fertiliser slow release Granules 1-2mm - 20kg",
+      "InventoryID": "761",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "99.50",
+      "Name": "Neem Fertiliser slow release Granules 1-2mm - 20kg",
+      "SKU": "758_761"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Liquid Spray Marking Dye - Marker Dye Blue",
+      "InventoryID": "780",
+      "Brand": "Kendon",
+      "DefaultPrice": "29.95",
+      "Name": "Liquid Spray Marking Dye - Marker Dye Blue",
+      "SKU": "780"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Liquid Marking Dye - Marker Dye Blue - 500ml",
+      "InventoryID": "781",
+      "Brand": "Kendon",
+      "DefaultPrice": "29.95",
+      "Name": "Liquid Marking Dye - Marker Dye Blue - 500ml",
+      "SKU": "780_781"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "158.00",
+      "Model": "Liquid Spray Marking Dye - Marker Dye Blue - 5L",
+      "InventoryID": "782",
+      "Brand": "Kendon",
+      "DefaultPrice": "149.99",
+      "Name": "Liquid Spray Marking Dye - Marker Dye Blue - 5L",
+      "SKU": "780_782"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "MaxGreen Hi-N & Iron liquid fertiliser - Growth plus Green",
+      "InventoryID": "801",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "MaxGreen Hi-N & Iron liquid fertiliser - Growth plus Green",
+      "SKU": "MG"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "24.95",
+      "Model": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 1L",
+      "InventoryID": "802",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 1L",
+      "SKU": "MG01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 4L",
+      "InventoryID": "803",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 4L",
+      "SKU": "MG04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.00",
+      "Model": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 15L",
+      "InventoryID": "804",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "MaxGreen Iron with Nitrogen Liquid Fertiliser - 15L",
+      "SKU": "MG15L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "2495.00",
+      "Model": "MaxGreen Hi-N & Iron Liquid Fertiliser - [size: 200L]",
+      "InventoryID": "805",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "2327.00",
+      "Name": "MaxGreen Hi-N & Iron Liquid Fertiliser - [size: 200L]",
+      "SKU": "MG_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Liquid Iron Fertiliser - 7% Iron 3% Sulphur",
+      "InventoryID": "806",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Liquid Iron Fertiliser - 7% Iron 3% Sulphur",
+      "SKU": "LIR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "19.95",
+      "Model": "Liquid Iron Fertiliser - 1L",
+      "InventoryID": "807",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "19.95",
+      "Name": "Liquid Iron Fertiliser - 1L",
+      "SKU": "LIR01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Liquid Iron Fertiliser - 4L",
+      "InventoryID": "808",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "49.95",
+      "Name": "Liquid Iron Fertiliser - 4L",
+      "SKU": "LIR04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "169.00",
+      "Model": "Liquid Iron Fertiliser - 20L",
+      "InventoryID": "809",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "Liquid Iron Fertiliser - 20L",
+      "SKU": "LIR20L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "141",
+            "Priority": "100",
+            "CategoryName": "Turf & Landscape"
+          }
+        }
+      ],
+      "RRP": "1590.00",
+      "Model": "Liquid Iron Fertiliser - 200L",
+      "InventoryID": "810",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "1521.00",
+      "Name": "Liquid Iron Fertiliser - 200L",
+      "SKU": "LIR_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "6981.00",
+      "Model": "MaxGreen Hi-N & Iron Liquid Fertiliser - [size: 1000Litre]",
+      "InventoryID": "811",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "3995.00",
+      "Name": "MaxGreen Hi-N & Iron Liquid Fertiliser - [size: 1000Litre]",
+      "SKU": "MG_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "4563.00",
+      "Model": "Liquid Iron Fertiliser - 1000L",
+      "InventoryID": "812",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "3200.00",
+      "Name": "Liquid Iron Fertiliser - 1000L",
+      "SKU": "LIR_IBC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "100",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "194",
+              "Priority": "0",
+              "CategoryName": "Jurassic Nutritional Therapy "
+            }
+          ]
+        }
+      ],
+      "RRP": "65.80",
+      "Model": "Jurassic Nutritional Therapy Human Health bundle",
+      "InventoryID": "828",
+      "Brand": "",
+      "DefaultPrice": "55.93",
+      "Name": "Jurassic Nutritional Therapy Human Health bundle",
+      "SKU": "828"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "215",
+            "Priority": "100",
+            "CategoryName": "Gift Vouchers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "$5 Plant Doctor Gift Voucher",
+      "InventoryID": "840",
+      "Brand": "",
+      "DefaultPrice": "5.00",
+      "Name": "$5 Plant Doctor Gift Voucher",
+      "SKU": "840"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "215",
+            "Priority": "99",
+            "CategoryName": "Gift Vouchers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "$25 Plant Doctor Gift Voucher",
+      "InventoryID": "841",
+      "Brand": "",
+      "DefaultPrice": "25.00",
+      "Name": "$25 Plant Doctor Gift Voucher",
+      "SKU": "841"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "215",
+            "Priority": "98",
+            "CategoryName": "Gift Vouchers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "$50 Plant Doctor Gift Voucher",
+      "InventoryID": "842",
+      "Brand": "",
+      "DefaultPrice": "50.00",
+      "Name": "$50 Plant Doctor Gift Voucher",
+      "SKU": "842"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "215",
+            "Priority": "97",
+            "CategoryName": "Gift Vouchers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "$100 Plant Doctor Gift Voucher",
+      "InventoryID": "843",
+      "Brand": "",
+      "DefaultPrice": "100.00",
+      "Name": "$100 Plant Doctor Gift Voucher",
+      "SKU": "843"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Iron Sulphate Heptahydrate - Soluble Slow release powder",
+      "InventoryID": "846",
+      "Brand": "",
+      "DefaultPrice": "12.95",
+      "Name": "Iron Sulphate Heptahydrate - Soluble Slow release powder",
+      "SKU": "846"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.00",
+      "Model": "Iron Sulphate - Soluble Slow release powder 1kg",
+      "InventoryID": "847",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.95",
+      "Name": "Iron Sulphate - Soluble Slow release powder 1kg",
+      "SKU": "846_847"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.00",
+      "Model": "Iron Sulphate - Soluble Slow release powder 4.5kg",
+      "InventoryID": "848",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Iron Sulphate - Soluble Slow release powder 4.5kg",
+      "SKU": "846_848"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.00",
+      "Model": "Iron Sulphate - Soluble Slow release powder 25kg",
+      "InventoryID": "849",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "79.95",
+      "Name": "Iron Sulphate - Soluble Slow release powder 25kg",
+      "SKU": "846_849"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "13.50",
+      "Model": "VolcaMin (clinoptilolite Zeolite)  - 2-4mm - 1kg",
+      "InventoryID": "858",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite)  - 2-4mm - 1kg",
+      "SKU": "567_858"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "13.50",
+      "Model": "VolcaMin (clinoptilolite Zeolite) 1-2mm 1kg",
+      "InventoryID": "859",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite) 1-2mm 1kg",
+      "SKU": "557_859"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "13.50",
+      "Model": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade < 1.0mm Powder [size: 1kg]",
+      "InventoryID": "860",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.50",
+      "Name": "VolcaMin (clinoptilolite Zeolite) - Horticulture & Agriculture Grade < 1.0mm Powder [size: 1kg]",
+      "SKU": "562_860"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "9.95",
+      "Model": "Power Pellets - 1kg",
+      "InventoryID": "861",
+      "Brand": "PlantMaster",
+      "DefaultPrice": "9.95",
+      "Name": "Power Pellets - 1kg",
+      "SKU": "PP01KG"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "34.95",
+      "Model": "Power Pellets - 4.5kg",
+      "InventoryID": "862",
+      "Brand": "PlantMaster",
+      "DefaultPrice": "34.95",
+      "Name": "Power Pellets - 4.5kg",
+      "SKU": "PP04KG"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "79.95",
+      "Model": "Power Pellets - 20kg",
+      "InventoryID": "863",
+      "Brand": "PlantMaster",
+      "DefaultPrice": "79.95",
+      "Name": "Power Pellets - 20kg",
+      "SKU": "PP20KG"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Plant Spray Oil Concentrate",
+      "InventoryID": "880",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "14.75",
+      "Name": "Neem Plant Spray Oil Concentrate",
+      "SKU": "880"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "10",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "14.75",
+      "Model": "Neem Plant Spray Oil - Ready to use, not concentrate - 750ml",
+      "InventoryID": "881",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "14.75",
+      "Name": "Neem Plant Spray Oil - Ready to use, not concentrate - 750ml",
+      "SKU": "880_881"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "14.75",
+      "Model": "Neem Plant Spray Oil Concentrate - 250ml",
+      "InventoryID": "882",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "14.75",
+      "Name": "Neem Plant Spray Oil Concentrate - 250ml",
+      "SKU": "880_882"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "39.95",
+      "Model": "Neem Plant Spray Oil Concentrate - 1L",
+      "InventoryID": "883",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "39.95",
+      "Name": "Neem Plant Spray Oil Concentrate - 1L",
+      "SKU": "880_883"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "140.00",
+      "Model": "Neem Plant Spray Oil Concentrate - 4L",
+      "InventoryID": "884",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "139.95",
+      "Name": "Neem Plant Spray Oil Concentrate - 4L",
+      "SKU": "880_884"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "499.00",
+      "Model": "Neem Plant Spray Oil Concentrate - 20L",
+      "InventoryID": "885",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "499.00",
+      "Name": "Neem Plant Spray Oil Concentrate - 20L",
+      "SKU": "880_885"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "10",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "5",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "CHAMPION Lawn & Fairway - Slow release granular fertiliser",
+      "InventoryID": "886",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.00",
+      "Name": "CHAMPION Lawn & Fairway - Slow release granular fertiliser",
+      "SKU": "886"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "89.95",
+      "Model": "CHAMPION Lawn & Fairway Fertiliser -  20kg",
+      "InventoryID": "887",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "89.95",
+      "Name": "CHAMPION Lawn & Fairway Fertiliser -  20kg",
+      "SKU": "886_887"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "12.00",
+      "Model": "CHAMPION Lawn & Fairway Fertiliser - 1kg",
+      "InventoryID": "888",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "12.00",
+      "Name": "CHAMPION Lawn & Fairway Fertiliser - 1kg",
+      "SKU": "886_888"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "35.00",
+      "Model": "CHAMPION Lawn & Fairway Fertiliser - 4.5kg",
+      "InventoryID": "889",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "35.00",
+      "Name": "CHAMPION Lawn & Fairway Fertiliser - 4.5kg",
+      "SKU": "886_889"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "10",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "CHAMPION Lawn & Greens grade granular mini-prill fertiliser with 3.5% iron",
+      "InventoryID": "892",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "14.50",
+      "Name": "CHAMPION Lawn & Greens grade granular mini-prill fertiliser with 3.5% iron",
+      "SKU": "892"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "99.95",
+      "Model": "CHAMPION Lawn & Greens Fertiliser 20kg",
+      "InventoryID": "893",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "99.95",
+      "Name": "CHAMPION Lawn & Greens Fertiliser 20kg",
+      "SKU": "892_894"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "15.00",
+      "Model": "CHAMPION Lawn & Greens fertiliser 1kg",
+      "InventoryID": "894",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "14.50",
+      "Name": "CHAMPION Lawn & Greens fertiliser 1kg",
+      "SKU": "892_893"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "39.95",
+      "Model": "CHAMPION Lawn & Greens fertiliser 4.5kg",
+      "InventoryID": "895",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "39.95",
+      "Name": "CHAMPION Lawn & Greens fertiliser 4.5kg",
+      "SKU": "892_895"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "52",
+              "CategoryName": "Indoor Plants"
+            }
+          ]
+        }
+      ],
+      "RRP": "89.60",
+      "Model": "Small Indoor plants & Garden fertiliser value bundle - 10% discount",
+      "InventoryID": "898",
+      "Brand": "",
+      "DefaultPrice": "80.64",
+      "Name": "Small Indoor plants & Garden fertiliser value bundle - 10% discount",
+      "SKU": "898"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "100",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Rich Horse & Stable Wash concentrate - 1L",
+      "InventoryID": "910",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "39.95",
+      "Name": "Neem Rich Horse & Stable Wash concentrate - 1L",
+      "SKU": "908_910"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "100",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Rich Pet & Animal Grooming Shampoo",
+      "InventoryID": "925",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "8.50",
+      "Name": "Neem Rich Pet & Animal Grooming Shampoo",
+      "SKU": "925"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "100",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "29.50",
+      "Model": "Neem Rich Pet & Animal Grooming Shampoo - 1L",
+      "InventoryID": "926",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "28.00",
+      "Name": "Neem Rich Pet & Animal Grooming Shampoo - 1L",
+      "SKU": "925_926"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "100",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Neem Rich Pet & Animal Grooming Conditioner",
+      "InventoryID": "929",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "28.00",
+      "Name": "Neem Rich Pet & Animal Grooming Conditioner",
+      "SKU": "929"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "191",
+            "Priority": "100",
+            "CategoryName": "Animals"
+          }
+        }
+      ],
+      "RRP": "29.50",
+      "Model": "Neem Rich Pet & Animal Grooming Conditioner - 1L",
+      "InventoryID": "930",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "28.00",
+      "Name": "Neem Rich Pet & Animal Grooming Conditioner - 1L",
+      "SKU": "929_930"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "1",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "191",
+              "Priority": "100",
+              "CategoryName": "Animals"
+            }
+          ]
+        }
+      ],
+      "RRP": "29.50",
+      "Model": "Neem Rich Pet & Animal Conditioner - 1L",
+      "InventoryID": "934",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "20.00",
+      "Name": "Neem Rich Pet & Animal Conditioner - 1L",
+      "SKU": "933_934"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "254",
+              "Priority": "0",
+              "CategoryName": "Health & Beauty"
+            }
+          ]
+        }
+      ],
+      "RRP": "5.75",
+      "Model": "Neem Rich Gardeners Soap 100gm",
+      "InventoryID": "953",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "3.60",
+      "Name": "Neem Rich Gardeners Soap 100gm",
+      "SKU": "953"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "254",
+              "Priority": "0",
+              "CategoryName": "Health & Beauty"
+            }
+          ]
+        }
+      ],
+      "RRP": "6.95",
+      "Model": "Quality LEMON MYRTLE SOAP 100g",
+      "InventoryID": "980",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "5.50",
+      "Name": "Quality LEMON MYRTLE SOAP 100g",
+      "SKU": "980"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "0",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "EZFLO Fertigation system 1010HB (tap connector) - 3.2L",
+      "InventoryID": "983",
+      "Brand": "EZFLO",
+      "DefaultPrice": "370.00",
+      "Name": "EZFLO Fertigation system 1010HB (tap connector) - 3.2L",
+      "SKU": "EZFLO_3.2L_TAP"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "299",
+              "Priority": "0",
+              "CategoryName": "EZFLO Fertigation"
+            }
+          ]
+        }
+      ],
+      "RRP": "583.80",
+      "Model": "EZFLO 3.2L system 1010HB (tap connector) w/ COMPLETE Fertiliser Bundle",
+      "InventoryID": "984",
+      "Brand": "EZFLO",
+      "DefaultPrice": "525.42",
+      "Name": "EZFLO 3.2L system 1010HB (tap connector) w/ COMPLETE Fertiliser Bundle",
+      "SKU": "984"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "299",
+              "Priority": "0",
+              "CategoryName": "EZFLO Fertigation"
+            }
+          ]
+        }
+      ],
+      "RRP": "501.85",
+      "Model": "EZFLO 3.2L system 1010HB (tap connector) w/ STARTER Fertiliser Bundle",
+      "InventoryID": "985",
+      "Brand": "EZFLO",
+      "DefaultPrice": "451.66",
+      "Name": "EZFLO 3.2L system 1010HB (tap connector) w/ STARTER Fertiliser Bundle",
+      "SKU": "985"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "254",
+              "Priority": "0",
+              "CategoryName": "Health & Beauty"
+            }
+          ]
+        }
+      ],
+      "RRP": "7.95",
+      "Model": "Neem Rich Toothpaste 100g",
+      "InventoryID": "998",
+      "Brand": "Neeming Australia",
+      "DefaultPrice": "7.15",
+      "Name": "Neem Rich Toothpaste 100g",
+      "SKU": "998"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "299",
+              "Priority": "1",
+              "CategoryName": "EZFLO Fertigation"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "EZFLO mainline 5.7L Fertigation system (for plumbed-in systems)",
+      "InventoryID": "1011",
+      "Brand": "EZFLO",
+      "DefaultPrice": "790.00",
+      "Name": "EZFLO mainline 5.7L Fertigation system (for plumbed-in systems)",
+      "SKU": "EZFLO_5.7L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "0",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "78.00",
+      "Model": "EZFLO  ¾” Coupling, Ball Valve Adapter to suit 20mm irrigation mains",
+      "InventoryID": "1012",
+      "Brand": "EZFLO",
+      "DefaultPrice": "78.00",
+      "Name": "EZFLO  ¾” Coupling, Ball Valve Adapter to suit 20mm irrigation mains",
+      "SKU": "EZFLO_CBV_20"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "0",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "80.00",
+      "Model": "EZFLO 1” Coupling, Ball valve adapter to suit 25mm irrigation mains",
+      "InventoryID": "1013",
+      "Brand": "EZFLO",
+      "DefaultPrice": "80.00",
+      "Name": "EZFLO 1” Coupling, Ball valve adapter to suit 25mm irrigation mains",
+      "SKU": "EZFLO_CBV_25"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "5",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "20.00",
+      "Model": "EZFLO Tap/Hose Vacuum breaker",
+      "InventoryID": "1016",
+      "Brand": "EZFLO",
+      "DefaultPrice": "20.00",
+      "Name": "EZFLO Tap/Hose Vacuum breaker",
+      "SKU": "1016"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "379",
+              "Priority": "0",
+              "CategoryName": "Commercial Fertilisers and Farming Essentials"
+            },
+            {
+              "CategoryID": "380",
+              "Priority": "0",
+              "CategoryName": "Nourish Your Lawn the Right Way                                     "
+            },
+            {
+              "CategoryID": "381",
+              "Priority": "0",
+              "CategoryName": "Elevate Your Home Garden"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Activ8EXTRA  Boosted liquid fertiliser and inoculant for lawns & leafy plants",
+      "InventoryID": "1017",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Activ8EXTRA  Boosted liquid fertiliser and inoculant for lawns & leafy plants",
+      "SKU": "A8X"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            }
+          ]
+        }
+      ],
+      "RRP": "24.95",
+      "Model": "Activ8EXTRA Boosted Liquid Fertiliser - 1L",
+      "InventoryID": "1018",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "24.95",
+      "Name": "Activ8EXTRA Boosted Liquid Fertiliser - 1L",
+      "SKU": "A8X01L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "62.95",
+      "Model": "Activ8EXTRA Boosted Liquid Fertiliser - 4L",
+      "InventoryID": "1019",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "62.95",
+      "Name": "Activ8EXTRA Boosted Liquid Fertiliser - 4L",
+      "SKU": "A8X04L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "199.00",
+      "Model": "Activ8EXTRA Boosted Liquid Fertiliser - 15L",
+      "InventoryID": "1020",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "0.00",
+      "Name": "Activ8EXTRA Boosted Liquid Fertiliser - 15L",
+      "SKU": "A8X15L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "2495.00",
+      "Model": "Activ8EXTRA  Boosted liquid fertiliser and inoculant for lawns and leafy plants [size: 200L]",
+      "InventoryID": "1021",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "2327.00",
+      "Name": "Activ8EXTRA  Boosted liquid fertiliser and inoculant for lawns and leafy plants [size: 200L]",
+      "SKU": "A8X_BAR"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "22.50",
+      "Model": "Nature's Help Pure Magnesium Oil - Certified Organic - 250ml",
+      "InventoryID": "1027",
+      "Brand": "Nature's Help",
+      "DefaultPrice": "19.95",
+      "Name": "Nature's Help Pure Magnesium Oil - Certified Organic - 250ml",
+      "SKU": "1027"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "215",
+            "Priority": "96",
+            "CategoryName": "Gift Vouchers"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "$250 Plant Doctor Gift Voucher",
+      "InventoryID": "1029",
+      "Brand": "",
+      "DefaultPrice": "250.00",
+      "Name": "$250 Plant Doctor Gift Voucher",
+      "SKU": "844"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Nourished Nutrients Micronised Australian Zeolite - 200 CAPSULES",
+      "InventoryID": "1033",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "32.95",
+      "Name": "Nourished Nutrients Micronised Australian Zeolite - 200 CAPSULES",
+      "SKU": "1031_1033"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "89.95",
+      "Model": "Nourished Nutrients Micronised Australian Zeolite - 500 CAPSULES",
+      "InventoryID": "1034",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "55.45",
+      "Name": "Nourished Nutrients Micronised Australian Zeolite - 500 CAPSULES",
+      "SKU": "1031_1034"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "0",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            },
+            {
+              "CategoryID": "380",
+              "Priority": "0",
+              "CategoryName": "Nourish Your Lawn the Right Way                                     "
+            }
+          ]
+        }
+      ],
+      "RRP": "13.95",
+      "Model": "Indoor plant food liquid 500ml",
+      "InventoryID": "1043",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.95",
+      "Name": "Indoor plant food liquid 500ml",
+      "SKU": "IPF500M"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "0",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "380",
+              "Priority": "0",
+              "CategoryName": "Nourish Your Lawn the Right Way                                     "
+            }
+          ]
+        }
+      ],
+      "RRP": "13.95",
+      "Model": "Indoor plant rescue remedy & multi-vitamins 500ml",
+      "InventoryID": "1044",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "13.95",
+      "Name": "Indoor plant rescue remedy & multi-vitamins 500ml",
+      "SKU": "IRR500M"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Sharp Shooter Rose Black Spot & Insect Spray",
+      "InventoryID": "1045",
+      "Brand": "Sharp Shooter",
+      "DefaultPrice": "8.95",
+      "Name": "Sharp Shooter Rose Black Spot & Insect Spray",
+      "SKU": "1045"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "14.95",
+      "Model": "Sharp Shooter Rose Black Spot & Insect Spray - 250ml Concentrate",
+      "InventoryID": "1046",
+      "Brand": "Sharp Shooter",
+      "DefaultPrice": "13.95",
+      "Name": "Sharp Shooter Rose Black Spot & Insect Spray - 250ml Concentrate",
+      "SKU": "1045_1046"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "9.95",
+      "Model": "Sharp Shooter Rose Black Spot & Insect Spray 750ml Ready to use, not concentrate",
+      "InventoryID": "1047",
+      "Brand": "Sharp Shooter",
+      "DefaultPrice": "8.95",
+      "Name": "Sharp Shooter Rose Black Spot & Insect Spray 750ml Ready to use, not concentrate",
+      "SKU": "1045_1047"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "100",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Potting Mix & Soil Improver (granular) LIMITED EDITION",
+      "InventoryID": "1048",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "27.50",
+      "Name": "Potting Mix & Soil Improver (granular) LIMITED EDITION",
+      "SKU": "1048"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "100",
+              "CategoryName": "Indoor Plants"
+            }
+          ]
+        }
+      ],
+      "RRP": "27.50",
+      "Model": "Potting mix and soil improver - Granular 4.5L LIMITED EDITION",
+      "InventoryID": "1049",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "27.50",
+      "Name": "Potting mix and soil improver - Granular 4.5L LIMITED EDITION",
+      "SKU": "1048_1049"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "100",
+              "CategoryName": "Indoor Plants"
+            }
+          ]
+        }
+      ],
+      "RRP": "65.00",
+      "Model": "Potting mix and soil improver - Granular 20L LIMITED EDITION",
+      "InventoryID": "1050",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "65.00",
+      "Name": "Potting mix and soil improver - Granular 20L LIMITED EDITION",
+      "SKU": "1048_1050"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "15.50",
+      "Model": "Premium Potting Mix for Cacti & Succulents - 4.5L",
+      "InventoryID": "1056",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "15.50",
+      "Name": "Premium Potting Mix for Cacti & Succulents - 4.5L",
+      "SKU": "1055_1056"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "29.95",
+      "Model": "Premium Potting Mix for Cacti & Succulents - 25L bag",
+      "InventoryID": "1057",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Premium Potting Mix for Cacti & Succulents - 25L bag",
+      "SKU": "1055_1057"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "14.95",
+      "Model": "Sharp Shooter Triforine Rose Spray Concentrate 250ml concentrate",
+      "InventoryID": "1058",
+      "Brand": "Sharp Shooter",
+      "DefaultPrice": "14.95",
+      "Name": "Sharp Shooter Triforine Rose Spray Concentrate 250ml concentrate",
+      "SKU": "1058",
+      "PromotionPrice": "14.50"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "0",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "37.85",
+      "Model": "Indoor Plant Foods bundle - liquids ONLY ",
+      "InventoryID": "1060",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "34.06",
+      "Name": "Indoor Plant Foods bundle - liquids ONLY ",
+      "SKU": "1060"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "228",
+              "Priority": "0",
+              "CategoryName": "Indoor Plants"
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            }
+          ]
+        }
+      ],
+      "RRP": "65.35",
+      "Model": "Indoor Plants Improver bundle - liquids AND granular",
+      "InventoryID": "1061",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "58.81",
+      "Name": "Indoor Plants Improver bundle - liquids AND granular",
+      "SKU": "1061"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "254",
+            "Priority": "2",
+            "CategoryName": "Health & Beauty"
+          }
+        }
+      ],
+      "RRP": "61.90",
+      "Model": "Nutra Nourished - 95% Curcumin Turmeric Extract & Black Pepper, 90 Capsules",
+      "InventoryID": "1062",
+      "Brand": "Nutra Nourished",
+      "DefaultPrice": "49.95",
+      "Name": "Nutra Nourished - 95% Curcumin Turmeric Extract & Black Pepper, 90 Capsules",
+      "SKU": "1062"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "40.90",
+      "Model": "Nutra Nourished - Pure MSM (Methyl Sulfonyl Methane) Capsules x 60 (660mg/serve)",
+      "InventoryID": "1063",
+      "Brand": "Nutra Nourished",
+      "DefaultPrice": "37.90",
+      "Name": "Nutra Nourished - Pure MSM (Methyl Sulfonyl Methane) Capsules x 60 (660mg/serve)",
+      "SKU": "1063"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "254",
+            "Priority": "99",
+            "CategoryName": "Health & Beauty"
+          }
+        }
+      ],
+      "RRP": "56.27",
+      "Model": "Nutra Nourished 95% Pure Curcumin Turmeric Extract Powder w/ black pepper - 120g",
+      "InventoryID": "1065",
+      "Brand": "Nutra Nourished",
+      "DefaultPrice": "49.95",
+      "Name": "Nutra Nourished 95% Pure Curcumin Turmeric Extract Powder w/ black pepper - 120g",
+      "SKU": "1065"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "0",
+              "CategoryName": "Food"
+            },
+            {
+              "CategoryID": "230",
+              "Priority": "0",
+              "CategoryName": "Capsules"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Nourished Nutrients MSM (Methyl Sulfonyl Methane) 460mg capsules BEST VALUE",
+      "InventoryID": "1067",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "29.95",
+      "Name": "Nourished Nutrients MSM (Methyl Sulfonyl Methane) 460mg capsules BEST VALUE",
+      "SKU": "1067"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "0",
+              "CategoryName": "Food"
+            },
+            {
+              "CategoryID": "230",
+              "Priority": "0",
+              "CategoryName": "Capsules"
+            }
+          ]
+        }
+      ],
+      "RRP": "47.88",
+      "Model": "Nourished Nutrients MSM (Methyl Sulfonyl Methane) 90 capsules",
+      "InventoryID": "1068",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "29.95",
+      "Name": "Nourished Nutrients MSM (Methyl Sulfonyl Methane) 90 capsules",
+      "SKU": "1067_1068"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "0",
+              "CategoryName": "Food"
+            },
+            {
+              "CategoryID": "230",
+              "Priority": "4",
+              "CategoryName": "Capsules"
+            }
+          ]
+        }
+      ],
+      "RRP": "133.00",
+      "Model": "BEST VALUE Nourished Nutrients MSM (Methyl Sulfonyl Methane) 200 Capsules",
+      "InventoryID": "1069",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "49.95",
+      "Name": "BEST VALUE Nourished Nutrients MSM (Methyl Sulfonyl Methane) 200 Capsules",
+      "SKU": "1067_1069"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "379",
+              "Priority": "0",
+              "CategoryName": "Commercial Fertilisers and Farming Essentials"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Gypsum Granules 1-2mm mini prill Granular slow release clay buster",
+      "InventoryID": "1075",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Gypsum Granules 1-2mm mini prill Granular slow release clay buster",
+      "SKU": "1075"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "24.95",
+      "Model": "Gypsum Granules - 4.5kg",
+      "InventoryID": "1077",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "29.95",
+      "Name": "Gypsum Granules - 4.5kg",
+      "SKU": "1075_1077"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "100",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "55.00",
+      "Model": "Gypsum Granules - 20kg",
+      "InventoryID": "1078",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "60.00",
+      "Name": "Gypsum Granules - 20kg",
+      "SKU": "1075_1078"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "0",
+              "CategoryName": "Food"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Lemon Myrtle capsules - Cert. organic & Australian grown in Northern NSW",
+      "InventoryID": "1083",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "24.95",
+      "Name": "Lemon Myrtle capsules - Cert. organic & Australian grown in Northern NSW",
+      "SKU": "LMC"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "35.00",
+      "Model": "Nourished Nutrients Lemon Myrtle - 90 Capsules ",
+      "InventoryID": "1084",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "24.95",
+      "Name": "Nourished Nutrients Lemon Myrtle - 90 Capsules ",
+      "SKU": "LMC090"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "190",
+            "Priority": "100",
+            "CategoryName": "Health"
+          }
+        }
+      ],
+      "RRP": "49.95",
+      "Model": "Nourished Nutrients Lemon Myrtle - 200 Capsules",
+      "InventoryID": "1085",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "39.95",
+      "Name": "Nourished Nutrients Lemon Myrtle - 200 Capsules",
+      "SKU": "LMC200"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "0.05",
+      "Model": "Miscellaneous",
+      "InventoryID": "1086",
+      "Brand": "",
+      "DefaultPrice": "0.05",
+      "Name": "Miscellaneous",
+      "SKU": "1086",
+      "PromotionPrice": "0.05"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "5",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            },
+            {
+              "CategoryID": "229",
+              "Priority": "1",
+              "CategoryName": "Food"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "ON SALE Neem Leaf capsules BEST VALUE",
+      "InventoryID": "1091",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "11.00",
+      "Name": "ON SALE Neem Leaf capsules BEST VALUE",
+      "SKU": "1091"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "1",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "1",
+              "CategoryName": "Health"
+            }
+          ]
+        }
+      ],
+      "RRP": "45.00",
+      "Model": "ON SALE - BEST VALUE Australian Neem Leaf Powder Capsules - 90 caps",
+      "InventoryID": "1092",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "11.00",
+      "Name": "ON SALE - BEST VALUE Australian Neem Leaf Powder Capsules - 90 caps",
+      "SKU": "1091_1092"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "1",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "1",
+              "CategoryName": "Health"
+            }
+          ]
+        }
+      ],
+      "RRP": "70.00",
+      "Model": "ON SALE - BEST VALUE Nourished Nutrients Neem Leaf Powder Capsules - 200 Caps",
+      "InventoryID": "1093",
+      "Brand": "Nourished Nutrients",
+      "DefaultPrice": "14.10",
+      "Name": "ON SALE - BEST VALUE Nourished Nutrients Neem Leaf Powder Capsules - 200 Caps",
+      "SKU": "1091_1093"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "299",
+              "Priority": "0",
+              "CategoryName": "EZFLO Fertigation"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "EZFLO 9.4L mainline Fertigation system (for plumbed-in systems)",
+      "InventoryID": "1094",
+      "Brand": "EZFLO",
+      "DefaultPrice": "990.00",
+      "Name": "EZFLO 9.4L mainline Fertigation system (for plumbed-in systems)",
+      "SKU": "EZFLO_9.4L"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "1.50",
+      "Model": "2ml pump or trigger sprayer for bottles",
+      "InventoryID": "1122",
+      "Brand": "",
+      "DefaultPrice": "1.50",
+      "Name": "2ml pump or trigger sprayer for bottles",
+      "SKU": "1122"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Pump - white",
+      "InventoryID": "1130",
+      "Brand": "",
+      "DefaultPrice": "1.50",
+      "Name": "Pump - white",
+      "SKU": "1122_1"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Pump - Black",
+      "InventoryID": "1131",
+      "Brand": "",
+      "DefaultPrice": "1.50",
+      "Name": "Pump - Black",
+      "SKU": "1122_2"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "100",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Trigger - Black",
+      "InventoryID": "1132",
+      "Brand": "",
+      "DefaultPrice": "1.50",
+      "Name": "Trigger - Black",
+      "SKU": "1122_3"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        ""
+      ],
+      "RRP": "9.95",
+      "Model": "Chamber bottles",
+      "InventoryID": "1140",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "6.65",
+      "Name": "Chamber bottles",
+      "SKU": "1140"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            },
+            {
+              "CategoryID": "190",
+              "Priority": "100",
+              "CategoryName": "Health"
+            }
+          ]
+        }
+      ],
+      "RRP": "29.99",
+      "Model": "Nature's Help - Vitamins D3+K2 - 50mls",
+      "InventoryID": "1144",
+      "Brand": "Nature's Help",
+      "DefaultPrice": "28.50",
+      "Name": "Nature's Help - Vitamins D3+K2 - 50mls",
+      "SKU": "1144"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            },
+            {
+              "CategoryID": "253",
+              "Priority": "0",
+              "CategoryName": "Agriculture and Farm fertilisers "
+            },
+            {
+              "CategoryID": "259",
+              "Priority": "0",
+              "CategoryName": "Vegetable Fertilisers"
+            },
+            {
+              "CategoryID": "379",
+              "Priority": "0",
+              "CategoryName": "Commercial Fertilisers and Farming Essentials"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Roots, Shoots & Leaves Granular Fertiliser 16-2-10 NPK + T/E ",
+      "InventoryID": "1156",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.00",
+      "Name": "Roots, Shoots & Leaves Granular Fertiliser 16-2-10 NPK + T/E ",
+      "SKU": "1156"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "150",
+              "Priority": "0",
+              "CategoryName": "ON SALE"
+            }
+          ]
+        }
+      ],
+      "RRP": "17.50",
+      "Model": "Roots, Shoots & Leaves Granular Fertiliser 1kg",
+      "InventoryID": "1157",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "17.00",
+      "Name": "Roots, Shoots & Leaves Granular Fertiliser 1kg",
+      "SKU": "1156_1157"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "45.00",
+      "Model": "Roots, Shoots & Leaves Granular Fertiliser 4.5kg",
+      "InventoryID": "1158",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "45.00",
+      "Name": "Roots, Shoots & Leaves Granular Fertiliser 4.5kg",
+      "SKU": "1156_1158"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "100",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "110.00",
+      "Model": "Roots, Shoots & Leaves Granular Fertiliser 20kg",
+      "InventoryID": "1159",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "110.00",
+      "Name": "Roots, Shoots & Leaves Granular Fertiliser 20kg",
+      "SKU": "1156_1159"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "100",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "EZFLO Mainline 3.2L (for plumbed-in systems)",
+      "InventoryID": "1165",
+      "Brand": "EZFLO",
+      "DefaultPrice": "360.00",
+      "Name": "EZFLO Mainline 3.2L (for plumbed-in systems)",
+      "SKU": "EZFLO1"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "100",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "438.00",
+      "Model": "EZFLO Mainline 3.2L [Adapter: 3/4\" - 20mm]",
+      "InventoryID": "1166",
+      "Brand": "EZFLO",
+      "DefaultPrice": "390.00",
+      "Name": "EZFLO Mainline 3.2L [Adapter: 3/4\" - 20mm]",
+      "SKU": "EZFLO1-20mm"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "100",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "440.00",
+      "Model": "EZFLO Mainline 3.2L [Adapter 2: 1\" - 25mm]",
+      "InventoryID": "1167",
+      "Brand": "EZFLO",
+      "DefaultPrice": "395.00",
+      "Name": "EZFLO Mainline 3.2L [Adapter 2: 1\" - 25mm]",
+      "SKU": "EZFLO1-25mm"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "100",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "360.00",
+      "Model": "EZFLO Mainline 3.2L [Adapter: PLEASE PICK ADAPTER SIZE]",
+      "InventoryID": "1168",
+      "Brand": "EZFLO",
+      "DefaultPrice": "360.00",
+      "Name": "EZFLO Mainline 3.2L [Adapter: PLEASE PICK ADAPTER SIZE]",
+      "SKU": "EZFLO1_mains"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "790.00",
+      "Model": "EZFLO mainline 5.7LFertigation system  [Adapter: PLEASE PICK ADAPTER SIZE]",
+      "InventoryID": "1170",
+      "Brand": "EZFLO",
+      "DefaultPrice": "790.00",
+      "Name": "EZFLO mainline 5.7LFertigation system  [Adapter: PLEASE PICK ADAPTER SIZE]",
+      "SKU": "EZFLO_5.7L_unit"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "4",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "868.00",
+      "Model": "EZFLO mainline 5.7LFertigation system  [Adapter: 3/4\" - 20mm]",
+      "InventoryID": "1171",
+      "Brand": "EZFLO",
+      "DefaultPrice": "790.00",
+      "Name": "EZFLO mainline 5.7LFertigation system  [Adapter: 3/4\" - 20mm]",
+      "SKU": "EZFLO_5.7L_w-20mm-CBV"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "299",
+            "Priority": "4",
+            "CategoryName": "EZFLO Fertigation"
+          }
+        }
+      ],
+      "RRP": "870.00",
+      "Model": "EZFLO mainline 5.7L Fertigation system  [Adapter: 1\" - 25mm]",
+      "InventoryID": "1172",
+      "Brand": "EZFLO",
+      "DefaultPrice": "790.00",
+      "Name": "EZFLO mainline 5.7L Fertigation system  [Adapter: 1\" - 25mm]",
+      "SKU": "EZFLO_5.7L_w-25mm-CBV"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "1018.00",
+      "Model": "EZFLO 9.4L Fertigation system (NO mains adapter)",
+      "InventoryID": "1173",
+      "Brand": "EZFLO",
+      "DefaultPrice": "990.00",
+      "Name": "EZFLO 9.4L Fertigation system (NO mains adapter)",
+      "SKU": "EZFLO_9.4L_unit"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "1068.00",
+      "Model": "EZFLO 9.4L Fertigation system with Adapter: 3/4\" - 20mm",
+      "InventoryID": "1174",
+      "Brand": "EZFLO",
+      "DefaultPrice": "990.00",
+      "Name": "EZFLO 9.4L Fertigation system with Adapter: 3/4\" - 20mm",
+      "SKU": "EZFLO_9.4-w-20-CBV"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "137",
+              "Priority": "0",
+              "CategoryName": "Agriculture, Horticulture and Hydroponics"
+            },
+            {
+              "CategoryID": "139",
+              "Priority": "100",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "1070.00",
+      "Model": "EZFLO 9.4L Fertigation system with Adapter: 1\" - 25mm",
+      "InventoryID": "1175",
+      "Brand": "EZFLO",
+      "DefaultPrice": "990.00",
+      "Name": "EZFLO 9.4L Fertigation system with Adapter: 1\" - 25mm",
+      "SKU": "EZFLO_9.4-w-25-CBV"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "139",
+              "Priority": "0",
+              "CategoryName": "Home Garden"
+            },
+            {
+              "CategoryID": "141",
+              "Priority": "0",
+              "CategoryName": "Turf & Landscape"
+            }
+          ]
+        }
+      ],
+      "RRP": "0.00",
+      "Model": "Gardener's Choice Bundle",
+      "InventoryID": "1176",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "76.28",
+      "Name": "Gardener's Choice Bundle",
+      "SKU": "1176"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "0",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "84.75",
+      "Model": "Gardener's Choice bundle - City 1000sqm",
+      "InventoryID": "1177",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "76.28",
+      "Name": "Gardener's Choice bundle - City 1000sqm",
+      "SKU": "1176_City"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "0",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "231.80",
+      "Model": "Gardener's Choice bundle - Metro 4000sqm",
+      "InventoryID": "1178",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "208.62",
+      "Name": "Gardener's Choice bundle - Metro 4000sqm",
+      "SKU": "1176_Metro"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "139",
+            "Priority": "0",
+            "CategoryName": "Home Garden"
+          }
+        }
+      ],
+      "RRP": "421.80",
+      "Model": "Gardener's Choice bundle - Rural 10,000sqm",
+      "InventoryID": "1179",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "379.62",
+      "Name": "Gardener's Choice bundle - Rural 10,000sqm",
+      "SKU": "1176_Rural"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": {
+            "CategoryID": "228",
+            "Priority": "100",
+            "CategoryName": "Indoor Plants"
+          }
+        }
+      ],
+      "RRP": "11.72",
+      "Model": "Passive Hydro Plant Food for Indoor plants - 30ml",
+      "InventoryID": "1181",
+      "Brand": "Plant Doctor",
+      "DefaultPrice": "9.95",
+      "Name": "Passive Hydro Plant Food for Indoor plants - 30ml",
+      "SKU": "PHPF"
+    },
+    {
+      "PrimarySupplier": "",
+      "Categories": [
+        {
+          "Category": [
+            {
+              "CategoryID": "140",
+              "Priority": "0",
+              "CategoryName": "Human & Animal Health"
+            },
+            {
+              "CategoryID": "254",
+              "Priority": "100",
+              "CategoryName": "Health & Beauty"
+            },
+            {
+              "CategoryID": "382",
+              "Priority": "0",
+              "CategoryName": "Human Health"
+            }
+          ]
+        }
+      ],
+      "RRP": "55.90",
+      "Model": "Nutra Nourished - Organic Pure Moringa Oleifera Leaf Capsules x 60 - Australian Grown - (720mg) Vegan",
+      "InventoryID": "1204",
+      "Brand": "Nutra Nourished",
+      "DefaultPrice": "44.95",
+      "Name": "Nutra Nourished - Organic Pure Moringa Oleifera Leaf Capsules x 60 - Australian Grown - (720mg) Vegan",
+      "SKU": "1204"
+    }
+  ],
+  "CurrentTime": "2025-06-23 23:38:19",
+  "Ack": "Success"
+}

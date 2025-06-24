@@ -1,7 +1,6 @@
 "use client";
 
 import React, { FC, useMemo } from 'react';
-import Image from 'next/image';
 import { getIntelligentRecommendations, getProductDisplayData } from '../lib/intelligent-recommendations';
 
 interface Product {
@@ -130,11 +129,9 @@ const Step5Results: FC<Step5ResultsProps> = ({ selections, onRestart, onBack }) 
               }}
             >
               <div className="w-full h-24 mb-2 overflow-hidden bg-white flex items-center justify-center flex-shrink-0" style={{ borderRadius: '8px' }}>
-                <Image
+                <img
                   src={product.image}
                   alt={product.alt}
-                  width={200}
-                  height={200}
                   className="max-w-full max-h-full object-contain p-1 group-hover:scale-105 transition-transform duration-300"
                   style={{ maxHeight: '200px' }}
                   loading="lazy"

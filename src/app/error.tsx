@@ -14,18 +14,24 @@ export default function Error({
   }, [error]);
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <div className="bg-white rounded-2xl shadow-md p-8 max-w-md mx-auto text-center">
-        <h2 className="text-2xl font-bold text-gray-900 mb-4">Something went wrong!</h2>
-        <p className="text-gray-600 mb-6">
-          We encountered an error while loading the Plant Doctor Product Guide.
+    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+      <div className="text-center">
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">Something went wrong!</h1>
+        <p className="text-gray-600 mb-8">
+          We&apos;re sorry, but something unexpected happened.
         </p>
         <button
           onClick={reset}
-          className="bg-green-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-green-600 transition"
+          className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg transition-colors mr-4"
         >
           Try again
         </button>
+        <a
+          href="/"
+          className="bg-gray-500 hover:bg-gray-600 text-white px-6 py-3 rounded-lg transition-colors inline-block"
+        >
+          Go home
+        </a>
       </div>
     </div>
   );

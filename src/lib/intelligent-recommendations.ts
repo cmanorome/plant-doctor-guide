@@ -503,7 +503,7 @@ export function getIntelligentRecommendations(selections: Selections): Array<{ t
     }
 
     // POPULAR PRODUCT BONUS (Base points)
-    const popularSkus = ['STM', 'SWS', 'A8M', 'LIR', 'MG', '636', '1231', '1247', '1295', '984', '985', '1176', '1235', '1318', '1253', '1243', 'EZFLO_2.8L_LE10'];
+    const popularSkus = ['STM', 'SWS', 'A8M', 'LIR', 'MG', '636', '1231', '1247', '1295', '984', '985', '1176', '1235', '1318', '1253', '1243', 'EZFLO_2.8L_LE10', '721']; // Added 721 for garden popularity
     if (popularSkus.includes(tag.sku)) {
       score += 15;
     }
@@ -513,6 +513,20 @@ export function getIntelligentRecommendations(selections: Selections): Array<{ t
     if (selections.situation && selections.situation.toLowerCase().includes('lawn') && lawnBundleSkus.includes(tag.sku)) {
       score += 40;
       reasons.push('🎯 Premium lawn bundle - complete solution');
+    }
+
+    // GARDEN PRIORITY BOOST (Special bonus for garden-specific products)
+    const gardenSpecificSkus = ['721', '1318', '1247']; // Products specifically for gardens/veggie patches
+    const gardenFriendlySkus = ['1176', '898', 'STM', 'SWS', '29800', '1156']; // Universal products great for gardens
+    
+    if (selections.situation && (selections.situation.toLowerCase().includes('garden beds') || selections.situation.toLowerCase().includes('veggie'))) {
+      if (gardenSpecificSkus.includes(tag.sku)) {
+        score += 50;
+        reasons.push('🌺 Garden specialist - perfect for flower & vegetable gardens');
+      } else if (gardenFriendlySkus.includes(tag.sku)) {
+        score += 30;
+        reasons.push('🌱 Excellent choice for garden applications');
+      }
     }
 
     // BUNDLE BONUS (General bonus for all bundles when goals include "start fresh")
@@ -572,14 +586,14 @@ export function getProductDisplayData() {
       "985": "https://www.plantdoctor.com.au/assets/full/985.jpg", // EZFLO 3.2L STARTER Fertiliser Bundle
       "1176": "https://www.plantdoctor.com.au/assets/full/1176.jpg", // Gardener's Choice Bundle
       "1235": "https://www.plantdoctor.com.au/assets/full/1235_1.jpg", // Lawn Lovers Starter Bundle
-      "1318": "https://www.plantdoctor.com.au/assets/full/1318.jpg", // Garden Soil Enhancer Bundle
-      "1253": "https://www.plantdoctor.com.au/assets/full/1253.jpg", // 2L Hose-on Lawn Envy & MaxGreen Bundle
-      "1060": "https://www.plantdoctor.com.au/assets/full/1060_1.jpg", // Indoor Plant Foods Bundle – Liquids Only
-      "1061": "https://www.plantdoctor.com.au/assets/full/1061_1.jpg", // Indoor Plants Improver Bundle
-      "1243": "https://www.plantdoctor.com.au/assets/full/1243_1.jpg", // Just Been Laid – Turf Starter Bundle
-      "898": "https://www.plantdoctor.com.au/assets/full/898_1.jpg", // Small Indoor Plants & Garden Fertiliser Value Bundle
+      "1318": "https://www.plantdoctor.com.au/assets/full/1318_1319.png", // Garden Soil Enhancer Bundle
+      "1253": "https://www.plantdoctor.com.au/assets/full/1253.jpg", // 2L Hose-on Bundle
+      "1060": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
+      "1061": "https://www.plantdoctor.com.au/indoor-plants-improver-bundle-liquids-granular",
+      "1243": "https://www.plantdoctor.com.au/just-been-laid-turf-starter-bundle",
+      "898": "https://www.plantdoctor.com.au/small-indoor-plants-garden-fertiliser-value-bundle",
       "1239": "https://www.plantdoctor.com.au/assets/full/1239_1.jpg", // Value Combo Bundle
-      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/assets/full/EZFLO_2.8L_LE10.jpg" // 2.8L EZFLO Unit with 10L Lawn Envy Bundle
+      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/2-8l-ezflo-unit-with-10l-lawn-envy-bundle"
     },
     linkMap: {
       "636": "https://www.plantdoctor.com.au/Plant-Doctor-Micronised-Gypsum-Liquid-Organic-Certified",

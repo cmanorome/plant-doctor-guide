@@ -76,7 +76,7 @@ export default function Step4_Issues({ selections, onSelect, onNext, onBack }: S
           <div className="flex items-start gap-3">
             <span className="text-blue-600 flex-shrink-0">ℹ️</span>
             <p className="text-gray-700 text-sm text-left">
-              <strong className="font-semibold">Optional step:</strong> You can skip this section if you don't have any specific issues. We'll still provide great recommendations!
+              <strong className="font-semibold">Optional step:</strong> You can skip this section if you don&apos;t have any specific issues. We&apos;ll still provide great recommendations!
             </p>
           </div>
         </div>

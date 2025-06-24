@@ -54,7 +54,7 @@ export default function Step2_5_SoilType({ selection, onSelect, onNext, onBack }
           <div className="flex items-start gap-3">
             <span className="text-yellow-600 flex-shrink-0">💡</span>
             <p className="text-gray-700 text-sm text-left">
-              <strong className="font-semibold">Not sure about your soil type?</strong> You can select "Not Sure" and we'll recommend versatile products that work well with most soil types.
+              <strong className="font-semibold">Not sure about your soil type?</strong> You can select &ldquo;Not Sure&rdquo; and we&apos;ll recommend versatile products that work well with most soil types.
             </p>
           </div>
         </div>

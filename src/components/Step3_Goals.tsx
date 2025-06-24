@@ -76,7 +76,7 @@ export default function Step3_Goals({ selections, onSelect, onNext, onBack }: St
           <div className="flex items-start gap-3">
             <span className="text-blue-600 flex-shrink-0">🎯</span>
             <p className="text-gray-700 text-sm text-left">
-              <strong className="font-semibold">Multiple goals?</strong> No problem! Select all that apply and we'll recommend products that work together to achieve your combined objectives.
+              <strong className="font-semibold">Multiple goals?</strong> No problem! Select all that apply and we&apos;ll recommend products that work together to achieve your combined objectives.
             </p>
           </div>
         </div>

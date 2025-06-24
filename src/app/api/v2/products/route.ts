@@ -1,99 +1,51 @@
-import { NextResponse } from 'next/server';
-import fs from 'fs/promises';
+import { NextRequest, NextResponse } from 'next/server';
+import fs from 'fs';
 import path from 'path';
 
-export async function GET() {
-  const baseUrl = process.env.MAROPOST_BASE_URL;
-  const apiKey = process.env.MAROPOST_API_KEY;
-
-  if (!baseUrl || !apiKey) {
-    return NextResponse.json(
-      { error: "Maropost API key or base URL is not configured on the server." },
-      { status: 500 }
-    );
-  }
-
-  const url = `${baseUrl}/do/WS/NetoAPI`;
-  console.log(`--- NEW REQUEST ---`);
-  console.log(`API Route: Fetching from URL: ${url}`);
-
-  // Neto API requires POST with specific JSON payload
-  // Fetch more products to get ALL products including indoor plant bundles
-  const requestBody = {
-    Filter: {
-      Visible: ["True"],
-      IsActive: ["True"],
-      Page: "0",
-      Limit: "250", // Increased to get ALL products including indoor plant bundles
-      OutputSelector: ["SKU", "Name", "Model", "Brand", "PrimarySupplier", "RRP", "DefaultPrice", "PromotionPrice", "Categories"]
-    }
-  };
-
+export async function GET(request: NextRequest) {
   try {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'NETOAPI_ACTION': 'GetItem',
-        'NETOAPI_KEY': apiKey,
-        'Content-Type': 'application/json',
-        'Accept': 'application/json'
-      },
-      body: JSON.stringify(requestBody),
-      cache: 'no-store',
+    const { searchParams } = new URL(request.url);
+    const category = searchParams.get('category');
+    const search = searchParams.get('search');
+    
+    // Read the product data from the JSON file
+    const filePath = path.join(process.cwd(), 'plant_doctor_product_tags.json');
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const data = JSON.parse(fileContents);
+    
+    let products = data.products || [];
+    
+    // Filter by category if provided
+    if (category && category !== 'all') {
+      products = products.filter((product: { category?: string }) => 
+        product.category?.toLowerCase() === category.toLowerCase()
+      );
+    }
+    
+    // Filter by search term if provided
+    if (search) {
+      const searchTerm = search.toLowerCase();
+      products = products.filter((product: { name?: string; description?: string }) =>
+        product.name?.toLowerCase().includes(searchTerm) ||
+        product.description?.toLowerCase().includes(searchTerm)
+      );
+    }
+    
+    return NextResponse.json({
+      success: true,
+      products: products,
+      total: products.length
     });
     
-    const responseBodyText = await res.text();
-    console.log(`API Route: Neto response status: ${res.status} ${res.statusText}`);
-
-    if (!res.ok) {
-      console.error("API Route: Neto API returned a non-OK response. Writing body to file.");
-      
-      try {
-        const filePath = path.join(process.cwd(), 'error_response.html');
-        await fs.writeFile(filePath, responseBodyText);
-        console.log(`Successfully wrote non-OK response body to ${filePath}`);
-      } catch (writeError) {
-        console.error("Failed to write error response file:", writeError);
-      }
-
-      return NextResponse.json(
-        { error: `Neto API Error: ${res.statusText}. Check 'error_response.html' for details.` },
-        { status: res.status }
-      );
-    }
-
-    try {
-      const data = JSON.parse(responseBodyText);
-      console.log("API Route: Successfully parsed JSON from Neto.");
-      console.log("API Route: Response structure:", Object.keys(data));
-      console.log(`API Route: Fetched ${data.Item?.length || 0} products`);
-      
-      // Write the successful response to a file for debugging
-      try {
-        const filePath = path.join(process.cwd(), 'api_success_response.json');
-        await fs.writeFile(filePath, JSON.stringify(data, null, 2));
-        console.log(`Successfully wrote API response to ${filePath}`);
-      } catch (writeError) {
-        console.error("Failed to write success response file:", writeError);
-      }
-      
-      console.log(`API Route: Returning original Neto API response structure with ${data.Item?.length || 0} products`);
-      
-      // Return the original Neto API response format that the frontend expects
-      return NextResponse.json(data);
-      
-    } catch (e) {
-      console.error("API Route: Failed to parse JSON. Raw response:", responseBodyText);
-      return NextResponse.json(
-        { error: "The API response was not valid JSON." },
-        { status: 500 }
-      );
-    }
-
-  } catch (error: any) {
-    console.error("API Route: Unhandled exception while fetching from Neto:", error);
+  } catch (error) {
+    console.error('Error reading products:', error);
     return NextResponse.json(
-      { error: error.message },
+      { 
+        success: false, 
+        error: 'Failed to load products',
+        products: [],
+        total: 0
+      },
       { status: 500 }
     );
   }

@@ -258,16 +258,6 @@ export const productTags: ProductTag[] = [
     "situations": "garden beds,indoor,lawn,veggie patch"
   },
   {
-    "sku": "1295",
-    "name": "Indoor Plant Bundle (2 x 500 ml liquids)",
-    "suitable_soils": "potting mix,loam",
-    "climate_zones": "all",
-    "best_seasons": "all",
-    "used_for": "indoor plant feeding,root health",
-    "goals": "boost plant growth",
-    "situations": "indoor"
-  },
-  {
     "sku": "1060",
     "name": "Indoor Plant Foods Bundle – Liquids Only",
     "suitable_soils": "potting mix,loam",

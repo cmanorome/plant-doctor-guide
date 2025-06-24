@@ -26,38 +26,38 @@ export const productTags: ProductTag[] = [
     "suitable_soils": "clay,sodic,compacted",
     "climate_zones": "tropical,subtropical,temperate",
     "best_seasons": "autumn,winter,spring",
-    "used_for": "compacted soil,clay breaking,poor drainage",
+    "used_for": "compacted soil,clay breaking,poor drainage,high magnesium,high sodium",
     "goals": "improve soil,start fresh",
     "situations": "lawn,garden beds,veggie patch"
   },
   {
     "sku": "1075",
     "name": "Gypsum Granules 1-2mm mini prill Granular slow release clay buster",
-    "suitable_soils": "clay,sodic",
+    "suitable_soils": "clay,sodic,compacted",
     "climate_zones": "subtropical,temperate,tropical",
     "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "compacted soil,poor drainage",
-    "goals": "improve soil",
-    "situations": ""
+    "used_for": "compacted soil,poor drainage,clay breaking",
+    "goals": "improve soil,start fresh",
+    "situations": "lawn,garden beds,veggie patch"
   },
   // Soil wetters for sandy/clay soils
   {
     "sku": "NSWL",
     "name": "Nature's Soil Wetter liquid - Super concentrated plant-derived non-petrochemical surfactant / wetter & soil conditioner",
-    "suitable_soils": "clay,hydrophobic,sandy",
+    "suitable_soils": "clay,hydrophobic,sandy,all",
     "climate_zones": "subtropical,temperate,tropical",
     "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "drought stress,dry soil,poor infiltration",
+    "used_for": "drought stress,dry soil,poor infiltration,hydrophobic soil,water repellent soil",
     "goals": "drought resistance,improve soil",
-    "situations": ""
+    "situations": "lawn,garden beds,veggie patch,indoor"
   },
   {
     "sku": "664",
     "name": "Nature's Soil Wetter granules - Natural mineral infused with plant-derived non-petrochemical surfactant",
-    "suitable_soils": "clay,sandy,hydrophobic",
+    "suitable_soils": "clay,sandy,hydrophobic,all",
     "climate_zones": "all",
     "best_seasons": "all",
-    "used_for": "dry soil,poor infiltration,drought stress",
+    "used_for": "dry soil,poor infiltration,drought stress,hydrophobic soil",
     "goals": "improve soil,drought resistance",
     "situations": "lawn,garden beds,veggie patch"
   },
@@ -66,144 +66,144 @@ export const productTags: ProductTag[] = [
     "sku": "LIR",
     "name": "Liquid Iron Fertiliser - 7% Iron 3% Sulphur",
     "suitable_soils": "all",
-    "climate_zones": "temperate,subtropical",
-    "best_seasons": "autumn,spring",
-    "used_for": "yellowing leaves,iron deficiency",
+    "climate_zones": "temperate,subtropical,tropical",
+    "best_seasons": "autumn,spring,summer",
+    "used_for": "yellowing leaves,iron deficiency,iron chlorosis,poor colour",
     "goals": "green up lawn,fix yellowing leaves",
-    "situations": "lawn,garden beds"
+    "situations": "lawn,garden beds,veggie patch"
   },
   {
     "sku": "547",
     "name": "Plant Doctor Iron Chelate",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "iron deficiency,yellowing leaves",
-    "goals": "green up lawn",
-    "situations": ""
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "iron deficiency,yellowing leaves,iron chlorosis,stunted growth",
+    "goals": "green up lawn,fix yellowing leaves",
+    "situations": "lawn,garden beds,veggie patch"
   },
   {
     "sku": "892",
     "name": "CHAMPION Lawn & Greens grade granular mini-prill fertiliser with 3.5% iron",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "iron deficiency,yellowing leaves",
-    "goals": "feed plants,green up lawn",
-    "situations": "lawn"
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "iron deficiency,yellowing leaves,sustained nutrition",
+    "goals": "feed plants,green up lawn,boost plant growth",
+    "situations": "lawn,garden beds"
   },
-  // Lawn specialists
+  // Lawn specialists - OUTDOOR ONLY
   {
     "sku": "MG",
     "name": "MaxGreen Hi-N & Iron liquid fertiliser - Growth plus Green",
     "suitable_soils": "all",
-    "climate_zones": "temperate,subtropical",
-    "best_seasons": "spring,summer",
-    "used_for": "yellowing,poor colour,lack of nitrogen",
+    "climate_zones": "temperate,subtropical,tropical",
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "yellowing,poor colour,lack of nitrogen,iron deficiency",
     "goals": "green up lawn,boost plant growth",
     "situations": "lawn"
   },
   {
     "sku": "A8M",
     "name": "Activ8mate Liquid Fertiliser Inoculant - For use on Plants, Lawns, Veggies, Trees, Natives",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "",
-    "goals": "feed plants,green up lawn",
-    "situations": "lawn"
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "poor growth,nutrient deficiency,soil health",
+    "goals": "feed plants,green up lawn,boost plant growth,improve soil",
+    "situations": "lawn,garden beds,veggie patch"
   },
   {
     "sku": "PP",
     "name": "Power Pellets - Organic slow-release Fertiliser for all plants, trees & lawns",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "",
-    "goals": "feed plants,green up lawn",
-    "situations": "lawn"
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "slow release nutrition,organic feeding",
+    "goals": "feed plants,green up lawn,boost plant growth",
+    "situations": "lawn,garden beds,veggie patch,indoor"
   },
   // Garden bed specialists
   {
     "sku": "721",
     "name": "Flowers, Fruits & Roots liquid fertiliser - High in Potassium & buffered with Humic",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "carbon boost,microbial activity",
-    "goals": "boost plant growth,feed plants,green up lawn,improve soil",
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "flowering,fruiting,root development",
+    "goals": "boost plant growth,feed plants,increase flowering,enhance fruit production",
     "situations": "garden beds,veggie patch"
   },
   {
     "sku": "1156",
     "name": "Roots, Shoots & Leaves Granular Fertiliser 16-2-10 NPK + T/E",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "",
-    "goals": "feed plants,green up lawn",
-    "situations": "garden beds,veggie patch"
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "leafy growth,sustained nutrition,nitrogen boost",
+    "goals": "feed plants,green up lawn,boost plant growth",
+    "situations": "garden beds,veggie patch,lawn"
   },
-  // Soil health & microbial boosters
+  // Soil health & microbial boosters - UNIVERSAL
   {
     "sku": "STM",
     "name": "Stimulizer - Super concentrate Bio-stimulant & natural chelating agent",
     "suitable_soils": "all",
     "climate_zones": "all",
     "best_seasons": "all",
-    "used_for": "root health,stress recovery,microbial boost",
-    "goals": "boost plant growth,build root health",
+    "used_for": "root health,stress recovery,microbial boost,nutrient uptake,disease protection",
+    "goals": "boost plant growth,build root health,improve plant resilience",
     "situations": "lawn,garden beds,veggie patch,indoor"
   },
   {
     "sku": "SWS",
     "name": "Seaweed Secrets | Concentrated Liquid Seaweed (Kelp) | Super-Boosted with Humic & Fulvic Acid",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "carbon boost,microbial activity,microbial health,stress recovery",
-    "goals": "boost plant growth,improve soil",
-    "situations": ""
+    "best_seasons": "all",
+    "used_for": "stress recovery,microbial activity,environmental stress,heat stress,cold stress",
+    "goals": "boost plant growth,improve soil,improve plant resilience",
+    "situations": "lawn,garden beds,veggie patch,indoor"
   },
   {
     "sku": "29800",
     "name": "Quantum H Premium humic acid solution",
-    "suitable_soils": "",
+    "suitable_soils": "all",
     "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "carbon boost,microbial activity",
-    "goals": "boost plant growth,improve soil",
-    "situations": ""
+    "best_seasons": "all",
+    "used_for": "soil structure,carbon boost,microbial activity,heavy metal detox,pesticide detox",
+    "goals": "boost plant growth,improve soil,build root health",
+    "situations": "lawn,garden beds,veggie patch"
   },
-  // Indoor plant specialists
+  // Indoor plant specialists - INDOOR ONLY
   {
     "sku": "1295",
     "name": "Indoor Plant bundle (2 x 500ml liquids)",
-    "suitable_soils": "",
-    "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "",
-    "goals": "start fresh",
+    "suitable_soils": "potting mix,indoor soil",
+    "climate_zones": "controlled environment",
+    "best_seasons": "all",
+    "used_for": "indoor plant nutrition,houseplant care",
+    "goals": "feed plants,boost plant growth,start fresh",
     "situations": "indoor"
   },
   {
     "sku": "PHPF",
     "name": "Passive Hydro Plant Food for Indoor plants - 30ml",
-    "suitable_soils": "",
-    "climate_zones": "subtropical,temperate,tropical",
-    "best_seasons": "autumn,spring,summer,winter",
-    "used_for": "",
-    "goals": "",
+    "suitable_soils": "hydroponic,water culture",
+    "climate_zones": "controlled environment",
+    "best_seasons": "all",
+    "used_for": "hydroponic nutrition,terrarium care,passive hydro",
+    "goals": "feed plants",
     "situations": "indoor"
   },
-  // Comprehensive bundle collection
+  // EZFLO Systems - LARGE SCALE OUTDOOR ONLY
   {
     "sku": "EZFLO_2.8L_LE10",
     "name": "2.8L EZFLO Unit with 10L Lawn Envy Bundle",
     "suitable_soils": "all",
     "climate_zones": "temperate,subtropical,tropical",
     "best_seasons": "spring,summer,autumn",
-    "used_for": "green up lawn,feed plants",
+    "used_for": "large scale lawn fertilization,automated lawn feeding,commercial lawn application",
     "goals": "green up lawn,start fresh",
     "situations": "lawn"
   },
@@ -212,8 +212,8 @@ export const productTags: ProductTag[] = [
     "name": "2L Hose-on Lawn Envy & MaxGreen Bundle",
     "suitable_soils": "all",
     "climate_zones": "temperate,subtropical,tropical",
-    "best_seasons": "all",
-    "used_for": "green up lawn,feed plants",
+    "best_seasons": "spring,summer,autumn",
+    "used_for": "lawn nutrition,hose-on lawn application,lawn iron boost",
     "goals": "green up lawn,boost plant growth",
     "situations": "lawn"
   },
@@ -223,9 +223,9 @@ export const productTags: ProductTag[] = [
     "suitable_soils": "all",
     "climate_zones": "all",
     "best_seasons": "all",
-    "used_for": "lawn care,soil feeding,plant feed",
-    "goals": "start fresh,boost plant growth",
-    "situations": "lawn,garden beds,veggie patch"
+    "used_for": "large scale lawn care,automated fertilization,commercial application",
+    "goals": "start fresh,boost plant growth,green up lawn",
+    "situations": "lawn"
   },
   {
     "sku": "985",
@@ -233,9 +233,9 @@ export const productTags: ProductTag[] = [
     "suitable_soils": "all",
     "climate_zones": "all",
     "best_seasons": "all",
-    "used_for": "lawn care,plant feeding",
+    "used_for": "large scale lawn care,automated lawn feeding",
     "goals": "start fresh,green up lawn",
-    "situations": "lawn,garden beds"
+    "situations": "lawn"
   },
   {
     "sku": "1318",
@@ -353,6 +353,39 @@ export function getIntelligentRecommendations(selections: Selections): Array<{ t
   const scored = productTags.map(tag => {
     let score = 0;
     const reasons: string[] = [];
+
+    // EXCLUSION LOGIC - Prevent inappropriate recommendations
+    
+    // Exclude large-scale/commercial systems for indoor plants
+    if (selections.situation && selections.situation.toLowerCase().includes('indoor')) {
+      const excludedForIndoor = ['EZFLO', 'MaxGreen', 'Lawn Envy', 'Turf', 'Hose-on'];
+      if (excludedForIndoor.some(excluded => tag.name.toLowerCase().includes(excluded.toLowerCase()))) {
+        return { tag, score: 0, reasons: ['❌ Not suitable for indoor use'] };
+      }
+      
+      // Only allow products specifically tagged for indoor use or universal products
+      if (tag.situations && !tag.situations.includes('indoor') && !tag.situations.includes('all')) {
+        // Allow universal soil health products for indoor use
+        const universalForIndoor = ['stimulizer', 'seaweed', 'nature\'s soil wetter'];
+        if (!universalForIndoor.some(universal => tag.name.toLowerCase().includes(universal))) {
+          return { tag, score: 0, reasons: ['❌ Not suitable for indoor use'] };
+        }
+      }
+    }
+    
+    // Exclude indoor-specific products for outdoor situations
+    if (selections.situation && !selections.situation.toLowerCase().includes('indoor')) {
+      if (tag.situations && tag.situations === 'indoor') {
+        return { tag, score: 0, reasons: ['❌ Indoor-only product'] };
+      }
+    }
+    
+    // Exclude EZFLO systems unless specifically for large lawns or commercial use
+    if (tag.name.toLowerCase().includes('ezflo')) {
+      if (!selections.situation || !selections.situation.toLowerCase().includes('lawn')) {
+        return { tag, score: 0, reasons: ['❌ EZFLO systems are for lawn irrigation only'] };
+      }
+    }
 
     // SOIL TYPE MATCHING (Highest Priority - 120 points)
     if (selections.soil && tag.suitable_soils) {
@@ -583,13 +616,13 @@ export function getProductDisplayData() {
       "1176": "https://www.plantdoctor.com.au/gardener-s-choice-bundle",
       "1235": "https://www.plantdoctor.com.au/lawn-lovers-starter-bundle",
       "1318": "https://www.plantdoctor.com.au/garden-soil-enhancer-bundle",
-      "1253": "https://www.plantdoctor.com.au/assets/full/1253.jpg", // 2L Hose-on Lawn Envy & MaxGreen Bundle
+      "1253": "https://www.plantdoctor.com.au/2l-hose-on-lawn-envy-maxgreen-bundle",
       "1060": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
       "1061": "https://www.plantdoctor.com.au/indoor-plants-improver-bundle-liquids-granular",
       "1243": "https://www.plantdoctor.com.au/just-been-laid-turf-starter-bundle",
       "898": "https://www.plantdoctor.com.au/small-indoor-plants-garden-fertiliser-value-bundle",
       "1239": "https://www.plantdoctor.com.au/value-combo-bundle",
-      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/assets/full/EZFLO_2.8L_LE10.jpg" // 2.8L EZFLO Unit with 10L Lawn Envy Bundle
+      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/2-8l-ezflo-unit-with-10l-lawn-envy-bundle"
     }
   };
 }

@@ -36,7 +36,7 @@ export default function Step4_Issues({ selections, onSelect, onNext, onBack }: S
         <div className="mb-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Any specific issues? (Optional)</h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto px-4">
-            Select any problems you're experiencing. This helps us recommend more targeted solutions.
+            Select any problems you&apos;re experiencing. This helps us recommend more targeted solutions.
           </p>
         </div>
 

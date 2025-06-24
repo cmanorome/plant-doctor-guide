@@ -573,39 +573,6 @@ export function getProductDisplayData() {
       "1176": "https://www.plantdoctor.com.au/assets/full/1176.jpg", // Gardener's Choice Bundle
       "1235": "https://www.plantdoctor.com.au/assets/full/1235_1.jpg", // Lawn Lovers Starter Bundle
       "1318": "https://www.plantdoctor.com.au/assets/full/1318.jpg", // Garden Soil Enhancer Bundle
-      "1253": "https://www.plantdoctor.com.au/assets/full/1253.jpg", // 2L Hose-on Lawn Envy & MaxGreen Bundle
-      "1060": "https://www.plantdoctor.com.au/assets/full/1060_1.jpg", // Indoor Plant Foods Bundle – Liquids Only
-      "1061": "https://www.plantdoctor.com.au/assets/full/1061_1.jpg", // Indoor Plants Improver Bundle
-      "1243": "https://www.plantdoctor.com.au/assets/full/1243_1.jpg", // Just Been Laid – Turf Starter Bundle
-      "898": "https://www.plantdoctor.com.au/assets/full/898_1.jpg", // Small Indoor Plants & Garden Fertiliser Value Bundle
-      "1239": "https://www.plantdoctor.com.au/assets/full/1239_1.jpg", // Value Combo Bundle
-      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/assets/full/EZFLO_2.8L_LE10.jpg" // 2.8L EZFLO Unit with 10L Lawn Envy Bundle
-    },
-    linkMap: {
-      "636": "https://www.plantdoctor.com.au/Plant-Doctor-Micronised-Gypsum-Liquid-Organic-Certified",
-      "1075": "https://www.plantdoctor.com.au/gypsum-granules-1-2mm-mini-prill-granular-slow-release-clay-buster",
-      "NSWL": "https://www.plantdoctor.com.au/natures-soil-wetter-liquid-super-concentrated-plan",
-      "664": "https://www.plantdoctor.com.au/natures-soil-wetter-granules-natural-mineral-infused",
-      "LIR": "https://www.plantdoctor.com.au/plant-doctor-7-iron-3-sulphur-liquid-fertiliser",
-      "547": "https://www.plantdoctor.com.au/iron-chelate-fertiliser",
-      "892": "https://www.plantdoctor.com.au/champion-lawn-greens-grade-granular-mini-prill-fertiliser",
-      "MG": "https://www.plantdoctor.com.au/maxgreen-hi-n-iron-liquid-fertiliser-growth-plus-g",
-      "A8M": "https://www.plantdoctor.com.au/activ8mate-liquid-fertiliser-inoculant-for-use-on",
-      "PP": "https://www.plantdoctor.com.au/power-pellets-organic-slow-release-fertiliser",
-      "721": "https://www.plantdoctor.com.au/flowers-fruits-and-roots-liquid-fertiliser",
-      "1156": "https://www.plantdoctor.com.au/roots-shoots-leaves-granular-fertiliser-16-2-10-np",
-      "STM": "https://www.plantdoctor.com.au/stimulizer-super-concentrate-bio-stimulant-natural",
-      "SWS": "https://www.plantdoctor.com.au/seaweed-secrets-concentrated-liquid-seaweed-kelp-s",
-      "29800": "https://www.plantdoctor.com.au/quantum-h-premium-humic-acid-solution",
-      "1295": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
-      "PHPF": "https://www.plantdoctor.com.au/passive-hydro-plant-food-for-indoor-plants-30ml",
-      "1231": "https://www.plantdoctor.com.au/lawn-lovers-pro-pack",
-      "1247": "https://www.plantdoctor.com.au/pro-soil-enhancer-bundle",
-      "984": "https://www.plantdoctor.com.au/ezflo-3-2l-complete-fertiliser-bundle",
-      "985": "https://www.plantdoctor.com.au/ezflo-3-2l-starter-fertiliser-bundle",
-      "1176": "https://www.plantdoctor.com.au/gardener-s-choice-bundle",
-      "1235": "https://www.plantdoctor.com.au/lawn-lovers-starter-bundle",
-      "1318": "https://www.plantdoctor.com.au/garden-soil-enhancer-bundle",
       "1253": "https://www.plantdoctor.com.au/2l-hose-on-lawn-envy-maxgreen-bundle",
       "1060": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
       "1061": "https://www.plantdoctor.com.au/indoor-plants-improver-bundle-liquids-granular",
@@ -613,6 +580,39 @@ export function getProductDisplayData() {
       "898": "https://www.plantdoctor.com.au/small-indoor-plants-garden-fertiliser-value-bundle",
       "1239": "https://www.plantdoctor.com.au/value-combo-bundle",
       "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/2-8l-ezflo-unit-with-10l-lawn-envy-bundle"
+    },
+    linkMap: {
+      "636": "https://www.plantdoctor.com.au/Plant-Doctor-Micronised-Gypsum-Liquid-Organic-Certified",
+      "1075": "https://www.plantdoctor.com.au/gypsum-granules-1-2mm-mini-prill",
+      "NSWL": "https://www.plantdoctor.com.au/natures-soil-wetter-liquid-super-concentrated-plan",
+      "664": "https://www.plantdoctor.com.au/Plant-Doctor-Natures-Soil-Wetter-Natural-GRANULAR-wetting-agent",
+      "LIR": "https://www.plantdoctor.com.au/plant-doctor-7-iron-3-sulphur-liquid-fertiliser",
+      "547": "https://www.plantdoctor.com.au/kendon-iron-chelate",
+      "892": "https://www.plantdoctor.com.au/champion-mineral-low-cut-lawn-fertiliser-new",
+      "MG": "https://www.plantdoctor.com.au/maxgreen-hi-n-iron-liquid-fertiliser-growth-plus-g",
+      "A8M": "https://www.plantdoctor.com.au/activ8mate-liquid-fertiliser-inoculant-for-use-on",
+      "PP": "https://www.plantdoctor.com.au/power-pellets-organic-slow-release-fertiliser-for",
+      "721": "https://www.plantdoctor.com.au/flowers-fruits-and-roots-liquid-fertiliser",
+      "1156": "https://www.plantdoctor.com.au/roots-shoots-leaves-granular-fertiliser-16-2-10-np",
+      "STM": "https://www.plantdoctor.com.au/stimulizer-super-concentrate-bio-stimulant-natural",
+      "SWS": "https://www.plantdoctor.com.au/seaweed-secrets-concentrated-liquid-seaweed-kelp-s",
+      "29800": "https://www.plantdoctor.com.au/quantum-h-premium-humic-acid-solution",
+      "1295": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
+      "PHPF": "https://www.plantdoctor.com.au/passive-hydro-plant-food",
+      "1231": "https://www.plantdoctor.com.au/lawn-lovers-pro-pack",
+      "1235": "https://www.plantdoctor.com.au/lawn-lovers-starter-bundle",
+      "1247": "https://www.plantdoctor.com.au/pro-soil-enhancer-bundle",
+      "1253": "https://www.plantdoctor.com.au/2l-hose-on-bundle-lawn-envy-max-green",
+      "1318": "https://www.plantdoctor.com.au/garden-soil-enhancer-bundle",
+      "1176": "https://www.plantdoctor.com.au/gardeners-choice-bundle",
+      "1060": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
+      "1061": "https://www.plantdoctor.com.au/indoor-plant-liquids-fertiliser-and-potting-mix-im",
+      "1243": "https://www.plantdoctor.com.au/just-been-laid-turf-starter-pack",
+      "898": "https://www.plantdoctor.com.au/small-indoor-plants-garden-fertiliser-value-bundle",
+      "1239": "https://www.plantdoctor.com.au/value-combo",
+      "984": "https://www.plantdoctor.com.au/ezflo-3.2l-system-1010hb-tap-connector-w-complete",
+      "985": "https://www.plantdoctor.com.au/ezflo-3.2l-system-1010hb-tap-connector-w-starter-f",
+      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/ezflo-fertigation-system-new-2.8l-connect-to-hose"
     }
   };
 }

@@ -545,7 +545,7 @@ export function getProductDisplayData() {
       // Iron products - Featured on homepage
       "LIR": "https://www.plantdoctor.com.au/assets/full/LIR01L.jpg", // Liquid Iron Fertiliser
       "547": "https://www.plantdoctor.com.au/assets/full/IC01L.jpg", // Iron Chelate
-      "892": "https://www.plantdoctor.com.au/assets/full/CLGF.jpg", // Champion Lawn & Greens
+      "892": "https://www.plantdoctor.com.au/assets/full/892_895.jpg", // Champion Lawn & Greens
       
       // Lawn fertilisers - Featured products
       "MG": "https://www.plantdoctor.com.au/assets/full/MG01L.jpg", // MaxGreen
@@ -573,13 +573,13 @@ export function getProductDisplayData() {
       "1176": "https://www.plantdoctor.com.au/assets/full/1176.jpg", // Gardener's Choice Bundle
       "1235": "https://www.plantdoctor.com.au/assets/full/1235_1.jpg", // Lawn Lovers Starter Bundle
       "1318": "https://www.plantdoctor.com.au/assets/full/1318.jpg", // Garden Soil Enhancer Bundle
-      "1253": "https://www.plantdoctor.com.au/2l-hose-on-lawn-envy-maxgreen-bundle",
-      "1060": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
-      "1061": "https://www.plantdoctor.com.au/indoor-plants-improver-bundle-liquids-granular",
-      "1243": "https://www.plantdoctor.com.au/just-been-laid-turf-starter-bundle",
-      "898": "https://www.plantdoctor.com.au/small-indoor-plants-garden-fertiliser-value-bundle",
-      "1239": "https://www.plantdoctor.com.au/value-combo-bundle",
-      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/2-8l-ezflo-unit-with-10l-lawn-envy-bundle"
+      "1253": "https://www.plantdoctor.com.au/assets/full/1253.jpg", // 2L Hose-on Lawn Envy & MaxGreen Bundle
+      "1060": "https://www.plantdoctor.com.au/assets/full/1060_1.jpg", // Indoor Plant Foods Bundle – Liquids Only
+      "1061": "https://www.plantdoctor.com.au/assets/full/1061_1.jpg", // Indoor Plants Improver Bundle
+      "1243": "https://www.plantdoctor.com.au/assets/full/1243_1.jpg", // Just Been Laid – Turf Starter Bundle
+      "898": "https://www.plantdoctor.com.au/assets/full/898_1.jpg", // Small Indoor Plants & Garden Fertiliser Value Bundle
+      "1239": "https://www.plantdoctor.com.au/assets/full/1239_1.jpg", // Value Combo Bundle
+      "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/assets/full/EZFLO_2.8L_LE10.jpg" // 2.8L EZFLO Unit with 10L Lawn Envy Bundle
     },
     linkMap: {
       "636": "https://www.plantdoctor.com.au/Plant-Doctor-Micronised-Gypsum-Liquid-Organic-Certified",

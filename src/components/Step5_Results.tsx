@@ -108,9 +108,9 @@ const Step5Results: FC<Step5ResultsProps> = ({ selections, onRestart, onBack }) 
         </div>
 
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">
-            Your Personalized Plant Doctor Recommendations
-          </h2>
+          <h1 className="text-4xl font-bold text-gray-900 mb-8 px-4">
+            Your Personalised Plant Doctor Recommendations
+          </h1>
           <p className="text-lg text-gray-600 leading-relaxed mb-6">
             Based on your selections, here are our top picks for your {selections.situation ? selections.situation.toLowerCase() : 'garden'}
           </p>
@@ -183,7 +183,7 @@ const Step5Results: FC<Step5ResultsProps> = ({ selections, onRestart, onBack }) 
             <div className="flex items-start gap-3 mb-4">
               <span className="text-purple-600 flex-shrink-0">✨</span>
               <p className="text-gray-700 text-sm text-left">
-                <strong className="font-semibold">Pro tip:</strong> For best results, follow the application instructions on each product. Start with soil improvement products first, then apply fertilizers and treatments.
+                <strong className="font-semibold">Pro tip:</strong> For best results, apply soil improvement products first, then apply fertilisers and treatments.
               </p>
             </div>
             
@@ -191,7 +191,7 @@ const Step5Results: FC<Step5ResultsProps> = ({ selections, onRestart, onBack }) 
               <span className="text-green-600 flex-shrink-0">💬</span>
               <div className="text-gray-700 text-sm text-left">
                 <strong className="font-semibold">Need More Help?</strong>
-                <p className="mt-1">Contact our Plant Doctor experts for personalized advice and product recommendations tailored to your specific garden needs.</p>
+                <p className="mt-1">Contact our Plant Doctor experts for personalised advice and product recommendations tailored to your specific garden needs.</p>
               </div>
             </div>
           </div>

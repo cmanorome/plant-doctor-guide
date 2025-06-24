@@ -10,7 +10,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Plant Doctor Product Guide",
   description: "Find the perfect plant care products for your Australian garden with our expert recommendation quiz.",
-  keywords: "plant care, garden fertilizer, lawn care, indoor plants, Australia",
+  keywords: "plant care, garden fertiliser, lawn care, indoor plants, Australia",
 };
 
 export default function RootLayout({

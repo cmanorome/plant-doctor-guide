@@ -203,7 +203,7 @@ export const productTags: ProductTag[] = [
     "suitable_soils": "all",
     "climate_zones": "temperate,subtropical,tropical",
     "best_seasons": "spring,summer,autumn",
-    "used_for": "large scale lawn fertilization,automated lawn feeding,commercial lawn application",
+    "used_for": "large scale lawn fertilisation,automated lawn feeding,commercial lawn application",
     "goals": "green up lawn,start fresh",
     "situations": "lawn"
   },
@@ -223,7 +223,7 @@ export const productTags: ProductTag[] = [
     "suitable_soils": "all",
     "climate_zones": "all",
     "best_seasons": "all",
-    "used_for": "large scale lawn care,automated fertilization,commercial application",
+    "used_for": "large scale lawn care,automated fertilisation,commercial application",
     "goals": "start fresh,boost plant growth,green up lawn",
     "situations": "lawn"
   },
@@ -547,12 +547,12 @@ export function getProductDisplayData() {
       "547": "https://www.plantdoctor.com.au/assets/full/IC01L.jpg", // Iron Chelate
       "892": "https://www.plantdoctor.com.au/assets/full/CLGF.jpg", // Champion Lawn & Greens
       
-      // Lawn fertilizers - Featured products
+      // Lawn fertilisers - Featured products
       "MG": "https://www.plantdoctor.com.au/assets/full/MG01L.jpg", // MaxGreen
       "A8M": "https://www.plantdoctor.com.au/assets/full/A8M10L.jpg", // Activ8mate
       "PP": "https://www.plantdoctor.com.au/assets/full/PP.jpg", // Power Pellets
       
-      // Garden fertilizers
+      // Garden fertilisers
       "721": "https://www.plantdoctor.com.au/assets/full/721_722.jpg", // Flowers, Fruits & Roots
       "1156": "https://www.plantdoctor.com.au/assets/full/1156.jpg", // Roots, Shoots & Leaves
       
@@ -582,14 +582,14 @@ export function getProductDisplayData() {
       "EZFLO_2.8L_LE10": "https://www.plantdoctor.com.au/assets/full/EZFLO_2.8L_LE10.jpg" // 2.8L EZFLO Unit with 10L Lawn Envy Bundle
     },
     linkMap: {
-      "636": "https://www.plantdoctor.com.au/micronised-gypsum-liquid-clay-buster",
+      "636": "https://www.plantdoctor.com.au/Plant-Doctor-Micronised-Gypsum-Liquid-Organic-Certified",
       "1075": "https://www.plantdoctor.com.au/gypsum-granules-1-2mm-mini-prill-granular-slow-release-clay-buster",
       "NSWL": "https://www.plantdoctor.com.au/natures-soil-wetter-liquid-super-concentrated-plan",
       "664": "https://www.plantdoctor.com.au/natures-soil-wetter-granules-natural-mineral-infused",
       "LIR": "https://www.plantdoctor.com.au/plant-doctor-7-iron-3-sulphur-liquid-fertiliser",
       "547": "https://www.plantdoctor.com.au/iron-chelate-fertiliser",
       "892": "https://www.plantdoctor.com.au/champion-lawn-greens-grade-granular-mini-prill-fertiliser",
-      "MG": "https://www.plantdoctor.com.au/maxgreen-liquid-iron-fertiliser",
+      "MG": "https://www.plantdoctor.com.au/maxgreen-hi-n-iron-liquid-fertiliser-growth-plus-g",
       "A8M": "https://www.plantdoctor.com.au/activ8mate-liquid-fertiliser-inoculant-for-use-on",
       "PP": "https://www.plantdoctor.com.au/power-pellets-organic-slow-release-fertiliser",
       "721": "https://www.plantdoctor.com.au/flowers-fruits-and-roots-liquid-fertiliser",
@@ -597,7 +597,7 @@ export function getProductDisplayData() {
       "STM": "https://www.plantdoctor.com.au/stimulizer-super-concentrate-bio-stimulant-natural",
       "SWS": "https://www.plantdoctor.com.au/seaweed-secrets-concentrated-liquid-seaweed-kelp-s",
       "29800": "https://www.plantdoctor.com.au/quantum-h-premium-humic-acid-solution",
-      "1295": "https://www.plantdoctor.com.au/indoor-plant-bundle-2-x-500ml-liquids",
+      "1295": "https://www.plantdoctor.com.au/indoor-plant-foods-bundle-liquids-only",
       "PHPF": "https://www.plantdoctor.com.au/passive-hydro-plant-food-for-indoor-plants-30ml",
       "1231": "https://www.plantdoctor.com.au/lawn-lovers-pro-pack",
       "1247": "https://www.plantdoctor.com.au/pro-soil-enhancer-bundle",
